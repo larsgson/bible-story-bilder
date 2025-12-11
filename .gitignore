@@ -5,8 +5,9 @@ __pycache__/
 *.so
 .Python
 
-# Virtual environments
+# Virtual environments (includes both directories and symlinks)
 venv/
+venv
 env/
 ENV/
 .venv/
