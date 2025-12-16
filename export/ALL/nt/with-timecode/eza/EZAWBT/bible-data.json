@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "EZAWBTN1DA": [
+      "REV/REV_015_EZAWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "EZAWBTN": [
+      "REV/REV_015_EZAWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "EZAWBTN1DA_timing": [
+      "REV/REV_015_EZAWBTN1DA_timing.json"
+    ]
+  }
+}

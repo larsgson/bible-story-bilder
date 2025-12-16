@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PBCBSSN2DA": [
+      "REV/REV_015_PBCBSSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "PBCBSSN": [
+      "REV/REV_015_PBCBSSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PBCBSSN2DA_timing": [
+      "REV/REV_015_PBCBSSN2DA_timing.json"
+    ]
+  }
+}

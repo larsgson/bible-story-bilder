@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PSSBIVN1DA": [
+      "REV/REV_015_PSSBIVN1DA.mp3"
+    ]
+  },
+  "text": {
+    "PSSBIVN": [
+      "REV/REV_015_PSSBIVN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PSSBIVN1DA_timing": [
+      "REV/REV_015_PSSBIVN1DA_timing.json"
+    ]
+  }
+}

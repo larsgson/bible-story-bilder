@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "WAWUFMN2DA": [
+      "REV/REV_015_WAWUFMN2DA.mp3"
+    ]
+  },
+  "text": {
+    "WAWUFMN": [
+      "REV/REV_015_WAWUFMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "WAWUFMN2DA_timing": [
+      "REV/REV_015_WAWUFMN2DA_timing.json"
+    ]
+  }
+}

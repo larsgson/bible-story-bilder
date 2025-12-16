@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BFZDPIN1DA": [
+      "REV/REV_015_BFZDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "BFZDPI": [
+      "REV/REV_015_BFZDPI.txt"
+    ]
+  },
+  "timing": {
+    "BFZDPIN1DA_timing": [
+      "REV/REV_015_BFZDPIN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "URDIRVN1DA": [
+      "REV/REV_015_URDIRVN1DA.mp3"
+    ]
+  },
+  "text": {
+    "URDIRVN": [
+      "REV/REV_015_URDIRVN_ET.txt"
+    ]
+  },
+  "timing": {
+    "URDIRVN1DA_timing": [
+      "REV/REV_015_URDIRVN1DA_timing.json"
+    ]
+  }
+}

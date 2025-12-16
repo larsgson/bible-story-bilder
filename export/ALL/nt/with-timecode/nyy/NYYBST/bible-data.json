@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "NYYBSTN2DA": [
+      "REV/REV_015_NYYBSTN2DA.mp3"
+    ]
+  },
+  "text": {
+    "NYYBSTN": [
+      "REV/REV_015_NYYBSTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "NYYBSTN2DA_timing": [
+      "REV/REV_015_NYYBSTN2DA_timing.json"
+    ]
+  }
+}

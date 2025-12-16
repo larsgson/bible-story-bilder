@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MXBMVRN1DA": [
+      "REV/REV_015_MXBMVRN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MXBMVRN": [
+      "REV/REV_015_MXBMVRN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MXBMVRN1DA_timing": [
+      "REV/REV_015_MXBMVRN1DA_timing.json"
+    ]
+  }
+}

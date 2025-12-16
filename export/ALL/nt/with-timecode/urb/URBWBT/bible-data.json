@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "URBWBTN1DA": [
+      "REV/REV_015_URBWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "URBWBTN": [
+      "REV/REV_015_URBWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "URBWBTN1DA_timing": [
+      "REV/REV_015_URBWBTN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PPKLAIN1DA": [
+      "REV/REV_015_PPKLAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "PPKLAIN": [
+      "REV/REV_015_PPKLAIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PPKLAIN1DA_timing": [
+      "REV/REV_015_PPKLAIN1DA_timing.json"
+    ]
+  }
+}

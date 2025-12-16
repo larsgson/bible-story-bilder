@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "GATNTMN1DA": [
+      "REV/REV_015_GATNTMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "GATNTMN": [
+      "REV/REV_015_GATNTMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "GATNTMN1DA_timing": [
+      "REV/REV_015_GATNTMN1DA_timing.json"
+    ]
+  }
+}

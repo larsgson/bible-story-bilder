@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PNYCABN1DA": [
+      "REV/REV_015_PNYCABN1DA.mp3"
+    ]
+  },
+  "text": {
+    "PNYCABN": [
+      "REV/REV_015_PNYCABN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PNYCABN1DA_timing": [
+      "REV/REV_015_PNYCABN1DA_timing.json"
+    ]
+  }
+}

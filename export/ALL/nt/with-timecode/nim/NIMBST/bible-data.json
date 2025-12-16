@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "NIMBSTN2DA": [
+      "REV/REV_015_NIMBSTN2DA.mp3"
+    ]
+  },
+  "text": {
+    "NIMBSTN": [
+      "REV/REV_015_NIMBSTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "NIMBSTN2DA_timing": [
+      "REV/REV_015_NIMBSTN2DA_timing.json"
+    ]
+  }
+}

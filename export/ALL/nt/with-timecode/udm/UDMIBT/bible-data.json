@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "UDMIBTN1DA": [
+      "REV/REV_015_UDMIBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "UDMIBTN": [
+      "REV/REV_015_UDMIBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "UDMIBTN1DA_timing": [
+      "REV/REV_015_UDMIBTN1DA_timing.json"
+    ]
+  }
+}

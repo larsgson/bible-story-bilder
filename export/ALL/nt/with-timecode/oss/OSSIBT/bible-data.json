@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "OSSIBTN2DA": [
+      "REV/REV_015_OSSIBTN2DA.mp3"
+    ]
+  },
+  "text": {
+    "OSSIBTN": [
+      "REV/REV_015_OSSIBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "OSSIBTN2DA_timing": [
+      "REV/REV_015_OSSIBTN2DA_timing.json"
+    ]
+  }
+}

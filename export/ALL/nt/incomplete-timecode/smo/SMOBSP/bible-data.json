@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "SMOBSPN1DA": [
+      "REV/REV_015_SMOBSPN1DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "SMOBSPN1DA_timing": [
+      "REV/REV_015_SMOBSPN1DA_timing.json"
+    ]
+  }
+}

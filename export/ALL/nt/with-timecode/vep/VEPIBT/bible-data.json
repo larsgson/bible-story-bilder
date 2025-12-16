@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "VEPIBTN1DA": [
+      "REV/REV_015_VEPIBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "VEPIBTN": [
+      "REV/REV_015_VEPIBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "VEPIBTN1DA_timing": [
+      "REV/REV_015_VEPIBTN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MYAOJVN2DA": [
+      "REV/REV_015_MYAOJVN2DA.mp3"
+    ]
+  },
+  "text": {
+    "MYAOJVN": [
+      "REV/REV_015_MYAOJVN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MYAOJVN2DA_timing": [
+      "REV/REV_015_MYAOJVN2DA_timing.json"
+    ]
+  }
+}

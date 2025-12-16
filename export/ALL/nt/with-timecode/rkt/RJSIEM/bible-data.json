@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "RJSIEMN1DA": [
+      "REV/REV_015_RJSIEMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "RJSIEMN": [
+      "REV/REV_015_RJSIEMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "RJSIEMN1DA_timing": [
+      "REV/REV_015_RJSIEMN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "SRNBSSN2DA": [
+      "REV/REV_015_SRNBSSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "SRNBSSN": [
+      "REV/REV_015_SRNBSSN_ET.txt"
+    ]
+  },
+  "timing": {}
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "CAXSBBN2DA": [
+      "REV/REV_015_CAXSBBN2DA.mp3"
+    ]
+  },
+  "text": {
+    "CAXSBBN": [
+      "REV/REV_015_CAXSBBN_ET.txt"
+    ]
+  },
+  "timing": {
+    "CAXSBBN2DA_timing": [
+      "REV/REV_015_CAXSBBN2DA_timing.json"
+    ]
+  }
+}

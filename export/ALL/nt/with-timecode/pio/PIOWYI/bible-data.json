@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PIOWYIN1DA": [
+      "REV/REV_015_PIOWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "PIOWYIN": [
+      "REV/REV_015_PIOWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PIOWYIN1DA_timing": [
+      "REV/REV_015_PIOWYIN1DA_timing.json"
+    ]
+  }
+}

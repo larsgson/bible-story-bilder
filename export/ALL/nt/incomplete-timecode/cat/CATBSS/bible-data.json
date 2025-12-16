@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "CATBSSN1DA": [
+      "REV/REV_015_CATBSSN1DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "CATBSSN1DA_timing": [
+      "REV/REV_015_CATBSSN1DA_timing.json"
+    ]
+  }
+}

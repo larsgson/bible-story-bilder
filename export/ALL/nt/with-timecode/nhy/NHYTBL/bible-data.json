@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "NHYTBLN1DA": [
+      "REV/REV_015_NHYTBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "NHYTBLN": [
+      "REV/REV_015_NHYTBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "NHYTBLN1DA_timing": [
+      "REV/REV_015_NHYTBLN1DA_timing.json"
+    ]
+  }
+}

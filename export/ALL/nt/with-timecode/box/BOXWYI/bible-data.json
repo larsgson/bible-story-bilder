@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BOXWYIN1DA": [
+      "REV/REV_015_BOXWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "BOXWYIN": [
+      "REV/REV_015_BOXWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "BOXWYIN1DA_timing": [
+      "REV/REV_015_BOXWYIN1DA_timing.json"
+    ]
+  }
+}

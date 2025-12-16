@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "YATCABN1DA": [
+      "REV/REV_015_YATCABN1DA.mp3"
+    ]
+  },
+  "text": {
+    "YATCAB": [
+      "REV/REV_015_YATCAB.txt"
+    ]
+  },
+  "timing": {
+    "YATCABN1DA_timing": [
+      "REV/REV_015_YATCABN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "GBMDPIN1DA": [
+      "REV/REV_015_GBMDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "GBMDPIN": [
+      "REV/REV_015_GBMDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "GBMDPIN1DA_timing": [
+      "REV/REV_015_GBMDPIN1DA_timing.json"
+    ]
+  }
+}

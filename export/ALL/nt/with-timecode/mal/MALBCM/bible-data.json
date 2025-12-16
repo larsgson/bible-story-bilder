@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MALBCMN2DA": [
+      "REV/REV_015_MALBCMN2DA.mp3"
+    ]
+  },
+  "text": {
+    "MALBCMN": [
+      "REV/REV_015_MALBCMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MALBCMN2DA_timing": [
+      "REV/REV_015_MALBCMN2DA_timing.json"
+    ]
+  }
+}

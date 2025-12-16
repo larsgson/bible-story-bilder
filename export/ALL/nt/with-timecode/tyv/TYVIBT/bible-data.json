@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TYVIBTN1DA": [
+      "REV/REV_015_TYVIBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TYVIBTN": [
+      "REV/REV_015_TYVIBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TYVIBTN1DA_timing": [
+      "REV/REV_015_TYVIBTN1DA_timing.json"
+    ]
+  }
+}

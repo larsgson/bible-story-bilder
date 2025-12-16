@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KIJPNGN1DA": [
+      "REV/REV_015_KIJPNGN1DA.mp3"
+    ]
+  },
+  "text": {
+    "KIJPNGN": [
+      "REV/REV_015_KIJPNGN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KIJPNGN1DA_timing": [
+      "REV/REV_015_KIJPNGN1DA_timing.json"
+    ]
+  }
+}

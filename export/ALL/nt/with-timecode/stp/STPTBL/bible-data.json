@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "STPTBLN1DA": [
+      "REV/REV_015_STPTBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "STPTBLN": [
+      "REV/REV_015_STPTBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "STPTBLN1DA_timing": [
+      "REV/REV_015_STPTBLN1DA_timing.json"
+    ]
+  }
+}

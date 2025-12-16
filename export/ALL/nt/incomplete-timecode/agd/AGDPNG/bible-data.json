@@ -1,0 +1,15 @@
+{
+  "audio": {
+    "AGDWBTN1DA": [
+      "REV/REV_015_AGDWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "AGDPNGN_ET": []
+  },
+  "timing": {
+    "AGDWBTN1DA_timing": [
+      "REV/REV_015_AGDWBTN1DA_timing.json"
+    ]
+  }
+}

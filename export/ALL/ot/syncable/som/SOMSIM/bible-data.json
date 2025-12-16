@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "SOMSIMO2DA": [
+      "PSA/PSA_117_SOMSIMO2DA.mp3"
+    ]
+  },
+  "text": {
+    "SOMSIM": [
+      "PSA/PSA_117_SOMSIM.txt"
+    ]
+  },
+  "timing": {}
+}

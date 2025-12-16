@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "CRQCMVN1DA": [
+      "REV/REV_015_CRQCMVN1DA.mp3"
+    ]
+  },
+  "text": {
+    "CRQCMV": [
+      "REV/REV_015_CRQCMV.txt"
+    ]
+  },
+  "timing": {
+    "CRQCMVN1DA_timing": [
+      "REV/REV_015_CRQCMVN1DA_timing.json"
+    ]
+  }
+}

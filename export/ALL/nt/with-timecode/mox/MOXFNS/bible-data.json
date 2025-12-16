@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MOXFSAN1DA": [
+      "REV/REV_015_MOXFSAN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MOXFSAN": [
+      "REV/REV_015_MOXFSAN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MOXFSAN1DA_timing": [
+      "REV/REV_015_MOXFSAN1DA_timing.json"
+    ]
+  }
+}

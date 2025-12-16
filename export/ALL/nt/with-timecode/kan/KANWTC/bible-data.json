@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ERVWTCN1DA": [
+      "REV/REV_015_ERVWTCN1DA.mp3"
+    ]
+  },
+  "text": {
+    "ERVWTC": [
+      "REV/REV_015_ERVWTC.txt"
+    ]
+  },
+  "timing": {
+    "ERVWTCN1DA_timing": [
+      "REV/REV_015_ERVWTCN1DA_timing.json"
+    ]
+  }
+}

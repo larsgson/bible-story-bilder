@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "RAITBLN1DA": [
+      "REV/REV_015_RAITBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "RAITBLN": [
+      "REV/REV_015_RAITBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "RAITBLN1DA_timing": [
+      "REV/REV_015_RAITBLN1DA_timing.json"
+    ]
+  }
+}

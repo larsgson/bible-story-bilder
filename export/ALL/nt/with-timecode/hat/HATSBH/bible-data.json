@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "HATSBHN2DA": [
+      "REV/REV_015_HATSBHN2DA.mp3"
+    ]
+  },
+  "text": {
+    "HATSBHN": [
+      "REV/REV_015_HATSBHN_ET.txt"
+    ]
+  },
+  "timing": {
+    "HATSBHN2DA_timing": [
+      "REV/REV_015_HATSBHN2DA_timing.json"
+    ]
+  }
+}

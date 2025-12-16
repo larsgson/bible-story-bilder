@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MYVIBTN1DA": [
+      "REV/REV_015_MYVIBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MYVIBTN": [
+      "REV/REV_015_MYVIBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MYVIBTN1DA_timing": [
+      "REV/REV_015_MYVIBTN1DA_timing.json"
+    ]
+  }
+}

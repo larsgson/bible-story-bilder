@@ -1,0 +1,15 @@
+{
+  "audio": {
+    "KO2VOMN1DA": [
+      "REV/REV_015_KO2VOMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "KO2VOM": []
+  },
+  "timing": {
+    "KO2VOMN1DA_timing": [
+      "REV/REV_015_KO2VOMN1DA_timing.json"
+    ]
+  }
+}

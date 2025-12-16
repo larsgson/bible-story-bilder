@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "NGLBSSN2DA": [
+      "REV/REV_015_NGLBSSN2DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "NGLBSSN2DA_timing": [
+      "REV/REV_015_NGLBSSN2DA_timing.json"
+    ]
+  }
+}

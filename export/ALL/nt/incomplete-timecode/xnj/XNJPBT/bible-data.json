@@ -1,0 +1,15 @@
+{
+  "audio": {
+    "XNJPBTN1DA": [
+      "REV/REV_015_XNJPBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "XNJPBTN_ET-usx": []
+  },
+  "timing": {
+    "XNJPBTN1DA_timing": [
+      "REV/REV_015_XNJPBTN1DA_timing.json"
+    ]
+  }
+}

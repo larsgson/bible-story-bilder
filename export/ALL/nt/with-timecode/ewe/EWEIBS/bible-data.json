@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "EWEIBSN2DA": [
+      "REV/REV_015_EWEIBSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "EWEIBSN": [
+      "REV/REV_015_EWEIBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "EWEIBSN2DA_timing": [
+      "REV/REV_015_EWEIBSN2DA_timing.json"
+    ]
+  }
+}

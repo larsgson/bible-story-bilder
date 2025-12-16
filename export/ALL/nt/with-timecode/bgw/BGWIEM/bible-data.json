@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BGWIEMN1DA": [
+      "REV/REV_015_BGWIEMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "BGWIEMN": [
+      "REV/REV_015_BGWIEMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "BGWIEMN1DA_timing": [
+      "REV/REV_015_BGWIEMN1DA_timing.json"
+    ]
+  }
+}

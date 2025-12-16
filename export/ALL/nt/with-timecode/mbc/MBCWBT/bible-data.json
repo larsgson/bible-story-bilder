@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MBCMVAN1DA": [
+      "REV/REV_015_MBCMVAN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MBCMVAN": [
+      "REV/REV_015_MBCMVAN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MBCMVAN1DA_timing": [
+      "REV/REV_015_MBCMVAN1DA_timing.json"
+    ]
+  }
+}

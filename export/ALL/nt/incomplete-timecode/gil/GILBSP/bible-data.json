@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "GILBSPN1DA": [
+      "REV/REV_015_GILBSPN1DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "GILBSPN1DA_timing": [
+      "REV/REV_015_GILBSPN1DA_timing.json"
+    ]
+  }
+}

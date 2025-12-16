@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "AGUNVSN1DA": [
+      "REV/REV_015_AGUNVSN1DA.mp3"
+    ]
+  },
+  "text": {
+    "AGUNVSN": [
+      "REV/REV_015_AGUNVSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "AGUNVSN1DA_timing": [
+      "REV/REV_015_AGUNVSN1DA_timing.json"
+    ]
+  }
+}

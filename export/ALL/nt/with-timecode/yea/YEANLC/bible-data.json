@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "YEANLCN1DA": [
+      "REV/REV_015_YEANLCN1DA.mp3"
+    ]
+  },
+  "text": {
+    "YEANLCN": [
+      "REV/REV_015_YEANLCN_ET.txt"
+    ]
+  },
+  "timing": {
+    "YEANLCN1DA_timing": [
+      "REV/REV_015_YEANLCN1DA_timing.json"
+    ]
+  }
+}

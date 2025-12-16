@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ASMDPIN1DA": [
+      "REV/REV_015_ASMDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "ASMDPIN": [
+      "REV/REV_015_ASMDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "ASMDPIN1DA_timing": [
+      "REV/REV_015_ASMDPIN1DA_timing.json"
+    ]
+  }
+}

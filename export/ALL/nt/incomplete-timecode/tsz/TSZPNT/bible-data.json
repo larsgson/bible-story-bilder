@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "TSZBSMN2DA": [
+      "REV/REV_015_TSZBSMN2DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "TSZBSMN2DA_timing": [
+      "REV/REV_015_TSZBSMN2DA_timing.json"
+    ]
+  }
+}

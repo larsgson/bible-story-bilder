@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "CPUWBTN1DA": [
+      "REV/REV_015_CPUWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "CPUWBTN": [
+      "REV/REV_015_CPUWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "CPUWBTN1DA_timing": [
+      "REV/REV_015_CPUWBTN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ACCIBSN1DA": [
+      "REV/REV_015_ACCIBSN1DA.mp3"
+    ]
+  },
+  "text": {
+    "ACCIBSN": [
+      "REV/REV_015_ACCIBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "ACCIBSN1DA_timing": [
+      "REV/REV_015_ACCIBSN1DA_timing.json"
+    ]
+  }
+}

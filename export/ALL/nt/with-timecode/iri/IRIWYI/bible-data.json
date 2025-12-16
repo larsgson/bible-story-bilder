@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "IRIWYIN1DA": [
+      "REV/REV_015_IRIWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "IRIWYIN": [
+      "REV/REV_015_IRIWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "IRIWYIN1DA_timing": [
+      "REV/REV_015_IRIWYIN1DA_timing.json"
+    ]
+  }
+}

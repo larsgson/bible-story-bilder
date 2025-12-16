@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "NZACABN1DA": [
+      "REV/REV_015_NZACABN1DA.mp3"
+    ]
+  },
+  "text": {
+    "NZACABN": [
+      "REV/REV_015_NZACABN_ET.txt"
+    ]
+  },
+  "timing": {
+    "NZACABN1DA_timing": [
+      "REV/REV_015_NZACABN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "INDALAN1DA": [
+      "REV/REV_015_INDALAN1DA.mp3"
+    ]
+  },
+  "text": {
+    "INDALA": [
+      "REV/REV_015_INDALA.txt"
+    ]
+  },
+  "timing": {
+    "INDALAN1DA_timing": [
+      "REV/REV_015_INDALAN1DA_timing.json"
+    ]
+  }
+}

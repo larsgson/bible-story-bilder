@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KPQBSIN1DA": [
+      "REV/REV_015_KPQBSIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "KPQBSI": [
+      "REV/REV_015_KPQBSI.txt"
+    ]
+  },
+  "timing": {
+    "KPQBSIN1DA_timing": [
+      "REV/REV_015_KPQBSIN1DA_timing.json"
+    ]
+  }
+}

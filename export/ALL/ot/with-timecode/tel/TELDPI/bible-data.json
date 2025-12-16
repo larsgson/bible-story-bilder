@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TELDPIO1DA": [
+      "PSA/PSA_117_TELDPIO1DA.mp3"
+    ]
+  },
+  "text": {
+    "TELDPIO": [
+      "PSA/PSA_117_TELDPIO_ET.txt"
+    ]
+  },
+  "timing": {
+    "TELDPIO1DA_timing": [
+      "PSA/PSA_117_TELDPIO1DA_timing.json"
+    ]
+  }
+}

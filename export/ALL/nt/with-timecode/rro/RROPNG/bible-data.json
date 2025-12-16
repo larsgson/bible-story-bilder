@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "RROPNGN1DA": [
+      "REV/REV_015_RROPNGN1DA.mp3"
+    ]
+  },
+  "text": {
+    "RROPNGN": [
+      "REV/REV_015_RROPNGN_ET.txt"
+    ]
+  },
+  "timing": {
+    "RROPNGN1DA_timing": [
+      "REV/REV_015_RROPNGN1DA_timing.json"
+    ]
+  }
+}

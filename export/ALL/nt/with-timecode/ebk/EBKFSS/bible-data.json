@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "EBKFSSN1DA": [
+      "REV/REV_015_EBKFSSN1DA.mp3"
+    ]
+  },
+  "text": {
+    "EBKFSSN": [
+      "REV/REV_015_EBKFSSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "EBKFSSN1DA_timing": [
+      "REV/REV_015_EBKFSSN1DA_timing.json"
+    ]
+  }
+}

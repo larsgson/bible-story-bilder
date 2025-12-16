@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "OMIWYIN1DA": [
+      "REV/REV_015_OMIWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "OMIWYIN": [
+      "REV/REV_015_OMIWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "OMIWYIN1DA_timing": [
+      "REV/REV_015_OMIWYIN1DA_timing.json"
+    ]
+  }
+}

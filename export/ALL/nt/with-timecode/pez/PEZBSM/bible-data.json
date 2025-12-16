@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PEZBSMN1DA": [
+      "REV/REV_015_PEZBSMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "PEZBSMN": [
+      "REV/REV_015_PEZBSMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PEZBSMN1DA_timing": [
+      "REV/REV_015_PEZBSMN1DA_timing.json"
+    ]
+  }
+}

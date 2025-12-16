@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BNGDIPN1DA": [
+      "REV/REV_015_BNGDIPN1DA.mp3"
+    ]
+  },
+  "text": {
+    "BNGDIPN": [
+      "REV/REV_015_BNGDIPN_ET.txt"
+    ]
+  },
+  "timing": {
+    "BNGDIPN1DA_timing": [
+      "REV/REV_015_BNGDIPN1DA_timing.json"
+    ]
+  }
+}

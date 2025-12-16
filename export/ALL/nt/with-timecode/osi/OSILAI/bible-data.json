@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "OSILAIN1DA": [
+      "REV/REV_015_OSILAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "OSILAIN": [
+      "REV/REV_015_OSILAIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "OSILAIN1DA_timing": [
+      "REV/REV_015_OSILAIN1DA_timing.json"
+    ]
+  }
+}

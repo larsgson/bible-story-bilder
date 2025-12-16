@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TAQWBTN1DA": [
+      "REV/REV_015_TAQWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TAQWBTN": [
+      "REV/REV_015_TAQWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TAQWBTN1DA_timing": [
+      "REV/REV_015_TAQWBTN1DA_timing.json"
+    ]
+  }
+}

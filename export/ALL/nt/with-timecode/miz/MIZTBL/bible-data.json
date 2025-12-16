@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MIZTBLN1DA": [
+      "REV/REV_015_MIZTBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MIZTBLN": [
+      "REV/REV_015_MIZTBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MIZTBLN1DA_timing": [
+      "REV/REV_015_MIZTBLN1DA_timing.json"
+    ]
+  }
+}

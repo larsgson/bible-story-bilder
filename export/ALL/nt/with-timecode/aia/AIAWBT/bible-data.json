@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "AIAWYIN1DA": [
+      "REV/REV_015_AIAWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "AIAWYIN": [
+      "REV/REV_015_AIAWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "AIAWYIN1DA_timing": [
+      "REV/REV_015_AIAWYIN1DA_timing.json"
+    ]
+  }
+}

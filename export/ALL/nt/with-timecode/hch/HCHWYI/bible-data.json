@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "HCHWYIN1DA": [
+      "REV/REV_015_HCHWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "HCHWYIN": [
+      "REV/REV_015_HCHWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "HCHWYIN1DA_timing": [
+      "REV/REV_015_HCHWYIN1DA_timing.json"
+    ]
+  }
+}

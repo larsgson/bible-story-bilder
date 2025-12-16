@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KPZBSUN2DA": [
+      "REV/REV_015_KPZBSUN2DA.mp3"
+    ]
+  },
+  "text": {
+    "KPZBSUN": [
+      "REV/REV_015_KPZBSUN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KPZBSUN2DA_timing": [
+      "REV/REV_015_KPZBSUN2DA_timing.json"
+    ]
+  }
+}

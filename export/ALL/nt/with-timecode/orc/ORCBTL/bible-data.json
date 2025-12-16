@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ORCBTLN1DA": [
+      "REV/REV_015_ORCBTLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "ORCBTL": [
+      "REV/REV_015_ORCBTL.txt"
+    ]
+  },
+  "timing": {
+    "ORCBTLN1DA_timing": [
+      "REV/REV_015_ORCBTLN1DA_timing.json"
+    ]
+  }
+}

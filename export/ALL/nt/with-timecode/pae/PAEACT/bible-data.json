@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PAEACTN1DA": [
+      "REV/REV_015_PAEACTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "PAEACTN": [
+      "REV/REV_015_PAEACTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PAEACTN1DA_timing": [
+      "REV/REV_015_PAEACTN1DA_timing.json"
+    ]
+  }
+}

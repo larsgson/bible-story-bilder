@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LINDPIN1DA": [
+      "REV/REV_015_LINDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "LINDPIN": [
+      "REV/REV_015_LINDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LINDPIN1DA_timing": [
+      "REV/REV_015_LINDPIN1DA_timing.json"
+    ]
+  }
+}

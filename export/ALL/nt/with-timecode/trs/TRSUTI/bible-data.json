@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TRSUTIN1DA": [
+      "REV/REV_015_TRSUTIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TRSUTIN": [
+      "REV/REV_015_TRSUTIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TRSUTIN1DA_timing": [
+      "REV/REV_015_TRSUTIN1DA_timing.json"
+    ]
+  }
+}

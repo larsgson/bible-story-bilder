@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LAWNTMN1DA": [
+      "REV/REV_015_LAWNTMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "LAWNTMN": [
+      "REV/REV_015_LAWNTMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LAWNTMN1DA_timing": [
+      "REV/REV_015_LAWNTMN1DA_timing.json"
+    ]
+  }
+}

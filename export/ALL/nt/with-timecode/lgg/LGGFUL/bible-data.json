@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LGGBSUN2DA": [
+      "REV/REV_015_LGGBSUN2DA.mp3"
+    ]
+  },
+  "text": {
+    "LGGBSUN": [
+      "REV/REV_015_LGGBSUN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LGGBSUN2DA_timing": [
+      "REV/REV_015_LGGBSUN2DA_timing.json"
+    ]
+  }
+}

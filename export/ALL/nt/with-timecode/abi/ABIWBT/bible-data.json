@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ABIWBTN1DA": [
+      "REV/REV_015_ABIWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "ABIWBTN": [
+      "REV/REV_015_ABIWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "ABIWBTN1DA_timing": [
+      "REV/REV_015_ABIWBTN1DA_timing.json"
+    ]
+  }
+}

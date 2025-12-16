@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "DWRTBLN2DA": [
+      "REV/REV_015_DWRTBLN2DA.mp3"
+    ]
+  },
+  "text": {
+    "DWRTBLN": [
+      "REV/REV_015_DWRTBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "DWRTBLN2DA_timing": [
+      "REV/REV_015_DWRTBLN2DA_timing.json"
+    ]
+  }
+}

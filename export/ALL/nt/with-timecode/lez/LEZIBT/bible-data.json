@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LEZIBTN1DA": [
+      "REV/REV_015_LEZIBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "LEZIBTN": [
+      "REV/REV_015_LEZIBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LEZIBTN1DA_timing": [
+      "REV/REV_015_LEZIBTN1DA_timing.json"
+    ]
+  }
+}

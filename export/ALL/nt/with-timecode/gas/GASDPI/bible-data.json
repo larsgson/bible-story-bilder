@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "GASDPIN1DA": [
+      "REV/REV_015_GASDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "GASDPIN": [
+      "REV/REV_015_GASDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "GASDPIN1DA_timing": [
+      "REV/REV_015_GASDPIN1DA_timing.json"
+    ]
+  }
+}

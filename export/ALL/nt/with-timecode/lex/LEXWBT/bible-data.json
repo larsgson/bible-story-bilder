@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LEXWBTN1DA": [
+      "REV/REV_015_LEXWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "LEXWBTN": [
+      "REV/REV_015_LEXWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LEXWBTN1DA_timing": [
+      "REV/REV_015_LEXWBTN1DA_timing.json"
+    ]
+  }
+}

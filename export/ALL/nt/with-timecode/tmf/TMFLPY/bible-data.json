@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TMFLPYN1DA": [
+      "REV/REV_015_TMFLPYN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TMFLPYN": [
+      "REV/REV_015_TMFLPYN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TMFLPYN1DA_timing": [
+      "REV/REV_015_TMFLPYN1DA_timing.json"
+    ]
+  }
+}

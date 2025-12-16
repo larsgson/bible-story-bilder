@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "SEPATAN1DA": [
+      "REV/REV_015_SEPATAN1DA.mp3"
+    ]
+  },
+  "text": {
+    "SEPATAN": [
+      "REV/REV_015_SEPATAN_ET.txt"
+    ]
+  },
+  "timing": {
+    "SEPATAN1DA_timing": [
+      "REV/REV_015_SEPATAN1DA_timing.json"
+    ]
+  }
+}

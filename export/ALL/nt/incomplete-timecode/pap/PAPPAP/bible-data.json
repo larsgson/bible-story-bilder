@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "PA2BSNN1DA": [
+      "REV/REV_015_PA2BSNN1DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "PA2BSNN1DA_timing": [
+      "REV/REV_015_PA2BSNN1DA_timing.json"
+    ]
+  }
+}

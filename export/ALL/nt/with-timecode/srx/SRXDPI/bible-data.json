@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "SRXDPIN1DA": [
+      "REV/REV_015_SRXDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "SRXDPIN": [
+      "REV/REV_015_SRXDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "SRXDPIN1DA_timing": [
+      "REV/REV_015_SRXDPIN1DA_timing.json"
+    ]
+  }
+}

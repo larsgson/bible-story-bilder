@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LOBBSBN2DA": [
+      "REV/REV_015_LOBBSBN2DA.mp3"
+    ]
+  },
+  "text": {
+    "LOBBSBN": [
+      "REV/REV_015_LOBBSBN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LOBBSBN2DA_timing": [
+      "REV/REV_015_LOBBSBN2DA_timing.json"
+    ]
+  }
+}

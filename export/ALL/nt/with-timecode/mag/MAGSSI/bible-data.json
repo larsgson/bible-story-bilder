@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MAGSSIN1DA": [
+      "REV/REV_015_MAGSSIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MAGSSIN": [
+      "REV/REV_015_MAGSSIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MAGSSIN1DA_timing": [
+      "REV/REV_015_MAGSSIN1DA_timing.json"
+    ]
+  }
+}

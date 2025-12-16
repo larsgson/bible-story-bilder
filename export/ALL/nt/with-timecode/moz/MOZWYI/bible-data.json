@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MOZWYIN1DA": [
+      "REV/REV_015_MOZWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MOZWYIN": [
+      "REV/REV_015_MOZWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MOZWYIN1DA_timing": [
+      "REV/REV_015_MOZWYIN1DA_timing.json"
+    ]
+  }
+}

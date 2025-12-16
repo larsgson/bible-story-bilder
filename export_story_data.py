@@ -23,13 +23,17 @@ Usage:
 
 import json
 import sys
+import zipfile
 from collections import defaultdict
+from datetime import datetime
 from pathlib import Path
 
 # Directories
 DOWNLOADS_DIR = Path("downloads/BB")
 DOWNLOAD_LOG_DIR = Path("download_log")
-EXPORT_DIR = Path("export")
+EXPORT_DIR = Path("export/ALL")  # Human-readable exports with whitespace
+WORKSPACE_DIR = Path("workspace")  # Compact format for zipping
+SORTED_DIR = Path("sorted")
 
 
 def load_error_log(iso: str, canon: str):
@@ -173,27 +177,10 @@ def determine_actual_category(filesets_by_type: dict) -> str:
     Returns: "with-timecode", "incomplete-timecode", "syncable",
              "text-only", "audio-only", or "failed"
     """
-    has_audio = bool(
-        [
-            fs
-            for fs in filesets_by_type["audio"].values()
-            if fs.get("status") == "available"
-        ]
-    )
-    has_text = bool(
-        [
-            fs
-            for fs in filesets_by_type["text"].values()
-            if fs.get("status") == "available"
-        ]
-    )
-    has_timing = bool(
-        [
-            fs
-            for fs in filesets_by_type["timing"].values()
-            if fs.get("status") == "available"
-        ]
-    )
+    # In compact format, filesets are just arrays, so check if non-empty
+    has_audio = bool([fs for fs in filesets_by_type["audio"].values() if fs])
+    has_text = bool([fs for fs in filesets_by_type["text"].values() if fs])
+    has_timing = bool([fs for fs in filesets_by_type["timing"].values() if fs])
 
     # No successful downloads at all
     if not has_audio and not has_text and not has_timing:
@@ -233,7 +220,7 @@ def export_language_data(
     errors_by_distinct_id = load_error_log(iso, canon)
     errors_for_this_distinct_id = errors_by_distinct_id.get(distinct_id, {})
 
-    # Organize filesets by type
+    # Organize filesets by type (compact format: only file arrays)
     filesets_by_type = {"audio": {}, "text": {}, "timing": {}}
 
     # Add downloaded filesets
@@ -246,30 +233,18 @@ def export_language_data(
 
         files_value = fileset_data["files"]
         files_list = files_value if isinstance(files_value, list) else []
-        filesets_by_type[file_type][fileset_id] = {
-            "status": "available",
-            "files": sorted(files_list),
-        }
+        # Compact format: just the file list
+        filesets_by_type[file_type][fileset_id] = sorted(files_list)
 
-    # Add failed filesets from error log (if not already in downloads)
+    # For failed filesets, we'll use empty arrays
     for fileset_id, errors in errors_for_this_distinct_id.items():
         # Determine type from fileset_id
         file_type = get_fileset_type(fileset_id)
 
         # Only add if not already present (no downloads)
         if fileset_id not in filesets_by_type[file_type]:
-            # Get the most common error type
-            error_types = [e["error_type"] for e in errors]
-            most_common_error = (
-                max(set(error_types), key=error_types.count)
-                if error_types
-                else "unknown"
-            )
-
-            filesets_by_type[file_type][fileset_id] = {
-                "status": "failed",
-                "error": most_common_error,
-            }
+            # Compact format: empty array for failed
+            filesets_by_type[file_type][fileset_id] = []
 
     # Determine actual category based on what exists
     actual_category = determine_actual_category(filesets_by_type)
@@ -278,24 +253,25 @@ def export_language_data(
     if actual_category != original_category:
         print(f"  Recategorized: {original_category} → {actual_category}")
 
-    # Create export data structure
-    export_data = {
-        "language": iso,
-        "canon": canon,
-        "category": actual_category,
-        "original_category": original_category,
-        "distinct_id": distinct_id,
-        "filesets": filesets_by_type,
-    }
+    # Create export data structure (compact format: only filesets)
+    # Metadata is encoded in directory path: export/{canon}/{category}/{iso}/{distinct_id}
+    export_data = filesets_by_type
 
-    # Create export directory using actual category
+    # Create export directory using actual category (human-readable format)
     export_path = EXPORT_DIR / canon.lower() / actual_category / iso / distinct_id
     export_path.mkdir(parents=True, exist_ok=True)
 
-    # Write JSON file
+    # Write JSON file with nice formatting for human readability
     output_file = export_path / "bible-data.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(export_data, f, indent=2, ensure_ascii=False)
+
+    # Also write compact version to workspace for zipping
+    workspace_path = WORKSPACE_DIR / canon.lower() / actual_category / iso / distinct_id
+    workspace_path.mkdir(parents=True, exist_ok=True)
+    workspace_file = workspace_path / "bible-data.json"
+    with open(workspace_file, "w", encoding="utf-8") as f:
+        json.dump(export_data, f, separators=(",", ":"), ensure_ascii=False)
 
     print(f"  → {output_file}")
 
@@ -392,6 +368,523 @@ def scan_and_export():
     print("\n" + "=" * 80)
 
 
+def load_language_names_from_sorted():
+    """
+    Load language names from sorted metadata.json files.
+    This reads from the sorted directory created by sort_cache_data.py.
+
+    Returns:
+        dict: {iso: {"name": "English name", "autonym": "Vernacular name"}}
+    """
+    language_names = {}
+
+    if not SORTED_DIR.exists():
+        print(f"Warning: Sorted directory not found: {SORTED_DIR}")
+        return language_names
+
+    # Scan sorted directory for metadata.json files
+    for canon_dir in SORTED_DIR.iterdir():
+        if not canon_dir.is_dir():
+            continue
+
+        for iso_dir in canon_dir.iterdir():
+            if not iso_dir.is_dir():
+                continue
+
+            iso = iso_dir.name
+
+            # Skip if we already have this language
+            if iso in language_names:
+                continue
+
+            # Look for any metadata.json file in this iso directory
+            metadata_files = list(iso_dir.glob("*/metadata.json"))
+            if metadata_files:
+                try:
+                    with open(metadata_files[0], "r", encoding="utf-8") as f:
+                        metadata = json.load(f)
+
+                        # Extract language info
+                        lang_info = metadata.get("language", {})
+                        if lang_info and "iso" in lang_info:
+                            language_names[iso] = {
+                                "name": lang_info.get("name", ""),
+                                "autonym": lang_info.get("autonym", ""),
+                            }
+                except (json.JSONDecodeError, IOError):
+                    # Skip files that can't be read
+                    pass
+
+    return language_names
+
+
+def generate_summary_to_dir(
+    target_dir: Path, source_dir: Path, use_compact: bool = False
+):
+    """
+    Generate a summary.json file in the specified directory.
+
+    Args:
+        target_dir: Directory where summary.json will be written
+        source_dir: Directory to scan for language data
+        use_compact: If True, use compact JSON format (no whitespace)
+    """
+    # Load language names from sorted metadata
+    language_names = load_language_names_from_sorted()
+
+    # Collect all languages by canon and category (unique by ISO, no distinct_ids)
+    canons_data = {}
+
+    # Scan the source directory structure
+    base_export = source_dir
+
+    for canon_dir in sorted(base_export.iterdir()):
+        if not canon_dir.is_dir():
+            continue
+
+        canon = canon_dir.name.lower()
+
+        # Initialize canon entry
+        if canon not in canons_data:
+            canons_data[canon] = {}
+            for category in [
+                "with-timecode",
+                "incomplete-timecode",
+                "syncable",
+                "text-only",
+                "audio-only",
+            ]:
+                canons_data[canon][category] = {}
+
+        for category_dir in sorted(canon_dir.iterdir()):
+            if not category_dir.is_dir():
+                continue
+
+            category = category_dir.name
+
+            # Skip "failed" category - we don't include failed in summaries or zips
+            if category == "failed":
+                continue
+
+            for iso_dir in sorted(category_dir.iterdir()):
+                if not iso_dir.is_dir():
+                    continue
+
+                iso = iso_dir.name
+
+                # Only add each ISO once per canon/category
+                if iso not in canons_data[canon][category]:
+                    # Get language names
+                    lang_info = language_names.get(iso, {})
+                    language_name = lang_info.get("name", "")
+                    vernacular_name = lang_info.get("autonym", "")
+
+                    # If no language name found, use ISO code with note
+                    if not language_name:
+                        language_name = f"{iso.upper()} (English name not cached)"
+
+                    # If no vernacular name, use note
+                    if not vernacular_name:
+                        vernacular_name = f"{iso.upper()} (vernacular name not cached)"
+
+                    # Add to category with compact format
+                    canons_data[canon][category][iso] = {
+                        "n": language_name,
+                        "v": vernacular_name,
+                    }
+
+    # Count total unique languages across all canons and categories
+    all_isos = set()
+    for canon_data in canons_data.values():
+        for iso_dict in canon_data.values():
+            all_isos.update(iso_dict.keys())
+
+    # Create summary structure
+    summary = {
+        "metadata": {
+            "generated_at": datetime.utcnow().isoformat() + "Z",
+            "total_languages": len(all_isos),
+        },
+        "canons": canons_data,
+    }
+
+    # Write summary file
+    target_dir.mkdir(parents=True, exist_ok=True)
+    # Use ALL.json for human-readable, summary.json for compact
+    filename = "ALL.json" if not use_compact else "summary.json"
+    summary_file = target_dir / filename
+
+    if use_compact:
+        with open(summary_file, "w", encoding="utf-8") as f:
+            json.dump(summary, f, separators=(",", ":"), ensure_ascii=False)
+    else:
+        with open(summary_file, "w", encoding="utf-8") as f:
+            json.dump(summary, f, indent=2, ensure_ascii=False)
+
+    return summary_file, all_isos, canons_data
+
+
+def generate_summary():
+    """
+    Generate summary.json files:
+    1. Human-readable version in export/ALL/
+    2. Compact version in workspace/
+    """
+    print("\n" + "=" * 80)
+    print("GENERATING SUMMARIES")
+    print("=" * 80)
+
+    # Load language names from sorted metadata
+    language_names = load_language_names_from_sorted()
+    print(f"\nLoaded {len(language_names)} language names from sorted metadata")
+
+    # Generate human-readable summary as export/ALL.json (scanning export/ALL/)
+    print(f"\nGenerating human-readable summary as export/ALL.json...")
+    summary_file_readable, all_isos, canons_data = generate_summary_to_dir(
+        Path("export"), EXPORT_DIR, use_compact=False
+    )
+    print(f"✓ Readable summary: {summary_file_readable}")
+
+    # Generate compact summary in workspace/ (scanning workspace/)
+    print(f"\nGenerating compact summary in {WORKSPACE_DIR}...")
+    summary_file_compact, _, _ = generate_summary_to_dir(
+        WORKSPACE_DIR, WORKSPACE_DIR, use_compact=True
+    )
+    print(f"✓ Compact summary: {summary_file_compact}")
+
+    print(f"\nSummary statistics:")
+    print(f"  Total unique languages: {len(all_isos)}")
+
+    # Count languages with/without names per canon
+    for canon in sorted(canons_data.keys()):
+        canon_data = canons_data[canon]
+        total_entries = sum(len(iso_dict) for iso_dict in canon_data.values())
+        langs_with_names = sum(
+            1
+            for iso_dict in canon_data.values()
+            for entry in iso_dict.values()
+            if not entry["n"].endswith("(English name not cached)")
+        )
+        langs_without_names = total_entries - langs_with_names
+
+        print(f"\n  Canon: {canon.upper()}")
+        print(f"    Languages with names: {langs_with_names}")
+        print(f"    Languages without names: {langs_without_names}")
+
+        for category in [
+            "with-timecode",
+            "incomplete-timecode",
+            "syncable",
+            "text-only",
+            "audio-only",
+        ]:
+            count = len(canon_data.get(category, {}))
+            print(f"    {category:20s}: {count:4d} languages")
+
+    print("\n" + "=" * 80)
+
+
+def create_export_archive():
+    """
+    Create a zip archive from the workspace directory (compact format).
+    Store the archive as export/ALL/ALL.zip
+    """
+    print("\n" + "=" * 80)
+    print("CREATING EXPORT ARCHIVE")
+    print("=" * 80)
+
+    if not WORKSPACE_DIR.exists():
+        print(f"Error: Workspace directory not found: {WORKSPACE_DIR}")
+        return
+
+    # Archive will be placed in export/ALL/
+    archive_path = EXPORT_DIR.parent / "ALL.zip"
+
+    # Remove existing archive if it exists
+    if archive_path.exists():
+        archive_path.unlink()
+        print(f"\nRemoved existing archive: {archive_path}")
+
+    print(f"\nCreating archive: {archive_path}")
+    print(f"Source directory: {WORKSPACE_DIR}")
+
+    file_count = 0
+    skipped_failed = 0
+    with zipfile.ZipFile(archive_path, "w", zipfile.ZIP_DEFLATED) as zipf:
+        # Walk through all files in workspace directory
+        for file_path in WORKSPACE_DIR.rglob("*"):
+            if file_path.is_file():
+                # Create archive path relative to workspace directory
+                arcname = file_path.relative_to(WORKSPACE_DIR)
+                arcname_str = str(arcname)
+
+                # Skip files in "failed" category
+                if "/failed/" in arcname_str or arcname_str.startswith("failed/"):
+                    skipped_failed += 1
+                    continue
+
+                zipf.write(file_path, arcname)
+                file_count += 1
+
+                # Print progress every 100 files
+                if file_count % 100 == 0:
+                    print(f"  Archived {file_count} files...")
+
+    # Get archive size
+    archive_size = archive_path.stat().st_size
+    size_mb = archive_size / (1024 * 1024)
+
+    print(f"\n✓ Archive created successfully")
+    print(f"  Total files archived: {file_count}")
+    print(f"  Skipped (failed): {skipped_failed}")
+    print(f"  Archive size: {size_mb:.2f} MB")
+    print(f"  Archive path: {archive_path.absolute()}")
+    print("\n" + "=" * 80)
+
+
+def parse_regions_config():
+    """
+    Parse the regions.conf file to extract region definitions.
+
+    Returns:
+        dict: {region_id: {"name": str, "languages": [iso_codes]}}
+    """
+    config_path = Path("config/regions.conf")
+
+    if not config_path.exists():
+        print(f"Warning: {config_path} not found. Skipping region zips.")
+        return {}
+
+    regions = {}
+    current_region = None
+    current_languages = []
+
+    with open(config_path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+
+            # Skip comments and empty lines
+            if not line or line.startswith("#"):
+                # If we have a current region, save it
+                if current_region and current_languages:
+                    regions[current_region] = {
+                        "name": current_region,
+                        "languages": current_languages,
+                    }
+                    current_region = None
+                    current_languages = []
+                continue
+
+            # Check if this is a region name (no commas, not all lowercase)
+            if "," not in line and not line.islower():
+                # Save previous region if exists
+                if current_region and current_languages:
+                    regions[current_region] = {
+                        "name": current_region,
+                        "languages": current_languages,
+                    }
+
+                # Start new region
+                current_region = line
+                current_languages = []
+            else:
+                # This is a language list line
+                if current_region:
+                    # Split by comma and clean up
+                    langs = [lang.strip() for lang in line.split(",") if lang.strip()]
+                    current_languages.extend(langs)
+
+    # Don't forget the last region
+    if current_region and current_languages:
+        regions[current_region] = {
+            "name": current_region,
+            "languages": current_languages,
+        }
+
+    return regions
+
+
+def sanitize_filename(name: str) -> str:
+    """Convert region name to safe filename."""
+    # Replace spaces and special chars with underscore
+    safe_name = name.replace(" ", "_")
+    safe_name = safe_name.replace(":", "")
+    safe_name = safe_name.replace("/", "_")
+    # Remove any other problematic characters
+    safe_name = "".join(c for c in safe_name if c.isalnum() or c in "_-")
+    return safe_name
+
+
+def extract_iso_from_path(path: str) -> str:
+    """
+    Extract ISO code from zip entry path.
+    Path format: nt/category/iso/distinct_id/bible-data.json
+    """
+    parts = path.split("/")
+    if len(parts) >= 3:
+        return parts[2]  # ISO is third component
+    return ""
+
+
+def filter_summary_by_isos(summary: dict, iso_codes: set) -> dict:
+    """
+    Filter summary.json to only include specified ISO codes.
+    Also excludes "failed" category.
+
+    Args:
+        summary: The full summary dict
+        iso_codes: Set of ISO codes to keep
+
+    Returns:
+        Filtered summary dict
+    """
+    filtered = {"metadata": summary["metadata"].copy(), "canons": {}}
+
+    # Update total languages count
+    filtered["metadata"]["total_languages"] = len(iso_codes)
+
+    # Filter each canon
+    for canon, categories in summary["canons"].items():
+        filtered["canons"][canon] = {}
+
+        for category, languages in categories.items():
+            # Skip failed category
+            if category == "failed":
+                continue
+
+            filtered_langs = {
+                iso: lang_data
+                for iso, lang_data in languages.items()
+                if iso in iso_codes
+            }
+
+            if filtered_langs:  # Only include category if it has languages
+                filtered["canons"][canon][category] = filtered_langs
+
+    return filtered
+
+
+def create_region_zip(
+    region_id: str, region_name: str, iso_codes: list, all_summary: dict
+):
+    """
+    Create a region-specific zip by filtering ALL.zip.
+    Uses direct zip-to-zip streaming for efficiency.
+
+    Args:
+        region_id: Safe filename for the region
+        region_name: Human-readable region name
+        iso_codes: List of ISO language codes for this region
+        all_summary: The complete summary dict from workspace/summary.json
+    """
+    iso_set = set(iso_codes)
+    all_zip_path = EXPORT_DIR.parent / "ALL.zip"
+    region_zip_path = EXPORT_DIR.parent / f"{region_id}.zip"
+
+    if not all_zip_path.exists():
+        print(f"  ✗ Skipping {region_name}: ALL.zip not found")
+        return
+
+    print(f"  Creating {region_id}.zip ({len(iso_codes)} languages)...")
+
+    # Filter summary
+    filtered_summary = filter_summary_by_isos(all_summary, iso_set)
+
+    matched_files = 0
+    skipped_files = 0
+
+    # Direct zip-to-zip filtering
+    with zipfile.ZipFile(all_zip_path, "r") as src:
+        with zipfile.ZipFile(region_zip_path, "w", zipfile.ZIP_DEFLATED) as dst:
+            # Add filtered summary first
+            summary_json = json.dumps(
+                filtered_summary, separators=(",", ":"), ensure_ascii=False
+            )
+            dst.writestr("summary.json", summary_json)
+
+            # Stream matching files from ALL.zip
+            for entry_name in src.namelist():
+                if entry_name == "summary.json":
+                    continue  # We already added the filtered version
+
+                # Skip files in "failed" category
+                if "/failed/" in entry_name or entry_name.startswith("failed/"):
+                    skipped_files += 1
+                    continue
+
+                # Extract ISO from path
+                iso = extract_iso_from_path(entry_name)
+
+                if iso in iso_set:
+                    # Stream this entry to the new zip
+                    dst.writestr(entry_name, src.read(entry_name))
+                    matched_files += 1
+                else:
+                    skipped_files += 1
+
+    # Get archive size
+    archive_size = region_zip_path.stat().st_size
+    size_kb = archive_size / 1024
+
+    print(f"    ✓ {region_id}.zip created")
+    print(f"      Files: {matched_files}, Size: {size_kb:.0f} KB")
+
+
+def create_region_zips():
+    """
+    Create region-specific zip files by filtering ALL.zip.
+    """
+    print("\n" + "=" * 80)
+    print("CREATING REGION-SPECIFIC ZIPS")
+    print("=" * 80)
+
+    # Parse regions config
+    print("\nParsing regions configuration...")
+    regions = parse_regions_config()
+
+    if not regions:
+        print("No regions found in config. Skipping region zips.")
+        return
+
+    print(f"Found {len(regions)} regions in config/regions.conf")
+
+    # Load the complete summary from workspace
+    workspace_summary_path = WORKSPACE_DIR / "summary.json"
+    if not workspace_summary_path.exists():
+        print("Error: workspace/summary.json not found. Cannot create region zips.")
+        return
+
+    print(f"\nLoading summary from {workspace_summary_path}...")
+    with open(workspace_summary_path, "r", encoding="utf-8") as f:
+        all_summary = json.load(f)
+
+    print(f"Total languages in summary: {all_summary['metadata']['total_languages']}")
+
+    # Create each region zip
+    print(f"\nCreating region zips...")
+    created_count = 0
+
+    for region_name, region_data in sorted(regions.items()):
+        region_id = sanitize_filename(region_name)
+        iso_codes = region_data["languages"]
+
+        if not iso_codes:
+            print(f"  ⚠ Skipping {region_name}: No languages defined")
+            continue
+
+        try:
+            create_region_zip(region_id, region_name, iso_codes, all_summary)
+            created_count += 1
+        except Exception as e:
+            print(f"  ✗ Failed to create {region_id}.zip: {e}")
+
+    # Summary
+    print(f"\n{'=' * 80}")
+    print(f"✓ Created {created_count} region zip files")
+    print(f"  Location: export/")
+    print(f"{'=' * 80}")
+
+
 def main():
     """Main entry point."""
     print("\n" + "=" * 80)
@@ -401,6 +894,9 @@ def main():
 
     try:
         scan_and_export()
+        generate_summary()
+        create_export_archive()
+        create_region_zips()
         print("\n✓ Export completed successfully\n")
     except Exception as e:
         print(f"\n✗ Export failed: {e}\n", file=sys.stderr)

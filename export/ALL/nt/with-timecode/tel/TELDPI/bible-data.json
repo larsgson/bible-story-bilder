@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TELDPIN1DA": [
+      "REV/REV_015_TELDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TELDPIN": [
+      "REV/REV_015_TELDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TELDPIN1DA_timing": [
+      "REV/REV_015_TELDPIN1DA_timing.json"
+    ]
+  }
+}

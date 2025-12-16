@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "IDDWYBN1DA": [
+      "REV/REV_015_IDDWYBN1DA.mp3"
+    ]
+  },
+  "text": {
+    "IDDWYBN": [
+      "REV/REV_015_IDDWYBN_ET.txt"
+    ]
+  },
+  "timing": {
+    "IDDWYBN1DA_timing": [
+      "REV/REV_015_IDDWYBN1DA_timing.json"
+    ]
+  }
+}

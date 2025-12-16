@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "CLETBLN1DA": [
+      "REV/REV_015_CLETBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "CLETBLN": [
+      "REV/REV_015_CLETBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "CLETBLN1DA_timing": [
+      "REV/REV_015_CLETBLN1DA_timing.json"
+    ]
+  }
+}

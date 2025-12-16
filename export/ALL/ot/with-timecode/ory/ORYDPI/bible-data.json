@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ORYDPIO1DA": [
+      "PSA/PSA_117_ORYDPIO1DA.mp3"
+    ]
+  },
+  "text": {
+    "ORYDPIO": [
+      "PSA/PSA_117_ORYDPIO_ET.txt"
+    ]
+  },
+  "timing": {
+    "ORYDPIO1DA_timing": [
+      "PSA/PSA_117_ORYDPIO1DA_timing.json"
+    ]
+  }
+}

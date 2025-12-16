@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "MINLAIO1DA": [
+      "PSA/PSA_117_MINLAIO1DA.mp3"
+    ]
+  },
+  "text": {
+    "MINLAIO": [
+      "PSA/PSA_117_MINLAIO_ET.txt"
+    ]
+  },
+  "timing": {}
+}

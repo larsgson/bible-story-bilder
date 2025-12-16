@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "HLAPNGN1DA": [
+      "REV/REV_015_HLAPNGN1DA.mp3"
+    ]
+  },
+  "text": {
+    "HLAPNGN": [
+      "REV/REV_015_HLAPNGN_ET.txt"
+    ]
+  },
+  "timing": {
+    "HLAPNGN1DA_timing": [
+      "REV/REV_015_HLAPNGN1DA_timing.json"
+    ]
+  }
+}

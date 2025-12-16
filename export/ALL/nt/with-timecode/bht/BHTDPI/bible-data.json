@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BHTDPIN1DA": [
+      "REV/REV_015_BHTDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "BHTDPIN": [
+      "REV/REV_015_BHTDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "BHTDPIN1DA_timing": [
+      "REV/REV_015_BHTDPIN1DA_timing.json"
+    ]
+  }
+}

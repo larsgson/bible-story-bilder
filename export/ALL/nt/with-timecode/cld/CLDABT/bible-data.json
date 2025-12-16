@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "CLDABTN1DA": [
+      "REV/REV_015_CLDABTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "CLDABTN": [
+      "REV/REV_015_CLDABTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "CLDABTN1DA_timing": [
+      "REV/REV_015_CLDABTN1DA_timing.json"
+    ]
+  }
+}

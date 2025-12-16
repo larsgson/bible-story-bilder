@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "URKTBSN2DA": [
+      "REV/REV_015_URKTBSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "URKTBSN": [
+      "REV/REV_015_URKTBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "URKTBSN2DA_timing": [
+      "REV/REV_015_URKTBSN2DA_timing.json"
+    ]
+  }
+}

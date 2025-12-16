@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "EWEBSGN1DA": [
+      "REV/REV_015_EWEBSGN1DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "EWEBSGN1DA_timing": [
+      "REV/REV_015_EWEBSGN1DA_timing.json"
+    ]
+  }
+}

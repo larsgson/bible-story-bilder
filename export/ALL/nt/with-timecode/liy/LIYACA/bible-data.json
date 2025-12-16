@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LIYACAN1DA": [
+      "REV/REV_015_LIYACAN1DA.mp3"
+    ]
+  },
+  "text": {
+    "LIYACAN": [
+      "REV/REV_015_LIYACAN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LIYACAN1DA_timing": [
+      "REV/REV_015_LIYACAN1DA_timing.json"
+    ]
+  }
+}

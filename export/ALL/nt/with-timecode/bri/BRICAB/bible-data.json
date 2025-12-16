@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BRICABN1DA": [
+      "REV/REV_015_BRICABN1DA.mp3"
+    ]
+  },
+  "text": {
+    "BRICABN": [
+      "REV/REV_015_BRICABN_ET.txt"
+    ]
+  },
+  "timing": {
+    "BRICABN1DA_timing": [
+      "REV/REV_015_BRICABN1DA_timing.json"
+    ]
+  }
+}

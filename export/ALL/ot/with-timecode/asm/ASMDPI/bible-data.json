@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ASMDPIO1DA": [
+      "PSA/PSA_117_ASMDPIO1DA.mp3"
+    ]
+  },
+  "text": {
+    "ASMDPIO": [
+      "PSA/PSA_117_ASMDPIO_ET.txt"
+    ]
+  },
+  "timing": {
+    "ASMDPIO1DA_timing": [
+      "PSA/PSA_117_ASMDPIO1DA_timing.json"
+    ]
+  }
+}

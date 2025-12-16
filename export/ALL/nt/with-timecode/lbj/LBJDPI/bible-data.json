@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LBJDPIN1DA": [
+      "REV/REV_015_LBJDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "LBJDPIN": [
+      "REV/REV_015_LBJDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LBJDPIN1DA_timing": [
+      "REV/REV_015_LBJDPIN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MZWNVSN1DA": [
+      "REV/REV_015_MZWNVSN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MZWNVSN": [
+      "REV/REV_015_MZWNVSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MZWNVSN1DA_timing": [
+      "REV/REV_015_MZWNVSN1DA_timing.json"
+    ]
+  }
+}

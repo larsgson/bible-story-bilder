@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "AHRDPIN1DA": [
+      "REV/REV_015_AHRDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "AHRDPIN": [
+      "REV/REV_015_AHRDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "AHRDPIN1DA_timing": [
+      "REV/REV_015_AHRDPIN1DA_timing.json"
+    ]
+  }
+}

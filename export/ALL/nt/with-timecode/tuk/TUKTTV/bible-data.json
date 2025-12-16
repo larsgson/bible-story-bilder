@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TUKTTVN1DA": [
+      "REV/REV_015_TUKTTVN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TUKTTVN": [
+      "REV/REV_015_TUKTTVN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TUKTTVN1DA_timing": [
+      "REV/REV_015_TUKTTVN1DA_timing.json"
+    ]
+  }
+}

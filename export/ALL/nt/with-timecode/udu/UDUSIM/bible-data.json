@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "UDUSIMN2DA": [
+      "REV/REV_015_UDUSIMN2DA.mp3"
+    ]
+  },
+  "text": {
+    "UDUSIM": [
+      "REV/REV_015_UDUSIM.txt"
+    ]
+  },
+  "timing": {
+    "UDUSIMN2DA_timing": [
+      "REV/REV_015_UDUSIMN2DA_timing.json"
+    ]
+  }
+}

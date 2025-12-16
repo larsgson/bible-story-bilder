@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "ENXBSPN1DA": [
+      "REV/REV_015_ENXBSPN1DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "ENXBSPN1DA_timing": [
+      "REV/REV_015_ENXBSPN1DA_timing.json"
+    ]
+  }
+}

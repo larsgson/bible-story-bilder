@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "NLVWYIN1DA": [
+      "REV/REV_015_NLVWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "NLVWYIN": [
+      "REV/REV_015_NLVWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "NLVWYIN1DA_timing": [
+      "REV/REV_015_NLVWYIN1DA_timing.json"
+    ]
+  }
+}

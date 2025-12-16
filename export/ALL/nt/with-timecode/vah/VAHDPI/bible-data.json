@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "VAHDPIN1DA": [
+      "REV/REV_015_VAHDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "VAHDPIN": [
+      "REV/REV_015_VAHDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "VAHDPIN1DA_timing": [
+      "REV/REV_015_VAHDPIN1DA_timing.json"
+    ]
+  }
+}

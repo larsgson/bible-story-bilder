@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "SESVMVN1DA": [
+      "REV/REV_015_SESVMVN1DA.mp3"
+    ]
+  },
+  "text": {
+    "SESVMVN": [
+      "REV/REV_015_SESVMVN_ET.txt"
+    ]
+  },
+  "timing": {
+    "SESVMVN1DA_timing": [
+      "REV/REV_015_SESVMVN1DA_timing.json"
+    ]
+  }
+}

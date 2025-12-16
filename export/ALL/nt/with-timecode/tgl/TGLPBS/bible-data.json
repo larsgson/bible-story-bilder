@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TGLPBSN1DA": [
+      "REV/REV_015_TGLPBSN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TGLPBSN": [
+      "REV/REV_015_TGLPBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TGLPBSN1DA_timing": [
+      "REV/REV_015_TGLPBSN1DA_timing.json"
+    ]
+  }
+}

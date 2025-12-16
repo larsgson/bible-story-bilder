@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "NDXLAIN1DA": [
+      "REV/REV_015_NDXLAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "NDXLAIN": [
+      "REV/REV_015_NDXLAIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "NDXLAIN1DA_timing": [
+      "REV/REV_015_NDXLAIN1DA_timing.json"
+    ]
+  }
+}

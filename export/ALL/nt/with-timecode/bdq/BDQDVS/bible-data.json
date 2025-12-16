@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BDQDVSN2DA": [
+      "REV/REV_015_BDQDVSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "BDQDVSN": [
+      "REV/REV_015_BDQDVSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "BDQDVSN2DA_timing": [
+      "REV/REV_015_BDQDVSN2DA_timing.json"
+    ]
+  }
+}

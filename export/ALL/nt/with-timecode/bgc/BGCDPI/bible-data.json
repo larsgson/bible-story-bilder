@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BGCDPIN1DA": [
+      "REV/REV_015_BGCDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "BGCDPI": [
+      "REV/REV_015_BGCDPI.txt"
+    ]
+  },
+  "timing": {
+    "BGCDPIN1DA_timing": [
+      "REV/REV_015_BGCDPIN1DA_timing.json"
+    ]
+  }
+}

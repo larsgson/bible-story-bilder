@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "CPATBLN1DA": [
+      "REV/REV_015_CPATBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "CPATBLN": [
+      "REV/REV_015_CPATBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "CPATBLN1DA_timing": [
+      "REV/REV_015_CPATBLN1DA_timing.json"
+    ]
+  }
+}

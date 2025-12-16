@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BAKIBTN1DA": [
+      "REV/REV_015_BAKIBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "BAKIBTN": [
+      "REV/REV_015_BAKIBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "BAKIBTN1DA_timing": [
+      "REV/REV_015_BAKIBTN1DA_timing.json"
+    ]
+  }
+}

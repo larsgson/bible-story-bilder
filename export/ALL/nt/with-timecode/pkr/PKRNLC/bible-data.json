@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PKRNLCN1DA": [
+      "REV/REV_015_PKRNLCN1DA.mp3"
+    ]
+  },
+  "text": {
+    "PKRNLCN": [
+      "REV/REV_015_PKRNLCN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PKRNLCN1DA_timing": [
+      "REV/REV_015_PKRNLCN1DA_timing.json"
+    ]
+  }
+}

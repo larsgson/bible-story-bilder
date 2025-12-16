@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "JIBNBTN2DA": [
+      "REV/REV_015_JIBNBTN2DA.mp3"
+    ]
+  },
+  "text": {
+    "JIBNBTN": [
+      "REV/REV_015_JIBNBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "JIBNBTN2DA_timing": [
+      "REV/REV_015_JIBNBTN2DA_timing.json"
+    ]
+  }
+}

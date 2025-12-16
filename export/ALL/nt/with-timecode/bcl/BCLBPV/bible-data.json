@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BCLBPVN2DA": [
+      "REV/REV_015_BCLBPVN2DA.mp3"
+    ]
+  },
+  "text": {
+    "BCLBPVN": [
+      "REV/REV_015_BCLBPVN_ET.txt"
+    ]
+  },
+  "timing": {
+    "BCLBPVN2DA_timing": [
+      "REV/REV_015_BCLBPVN2DA_timing.json"
+    ]
+  }
+}

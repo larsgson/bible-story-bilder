@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "DTPBSMN1DA": [
+      "REV/REV_015_DTPBSMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "DTPBSMN": [
+      "REV/REV_015_DTPBSMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "DTPBSMN1DA_timing": [
+      "REV/REV_015_DTPBSMN1DA_timing.json"
+    ]
+  }
+}

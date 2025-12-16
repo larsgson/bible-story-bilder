@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MQFLAIN1DA": [
+      "REV/REV_015_MQFLAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MQFLAIN": [
+      "REV/REV_015_MQFLAIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MQFLAIN1DA_timing": [
+      "REV/REV_015_MQFLAIN1DA_timing.json"
+    ]
+  }
+}

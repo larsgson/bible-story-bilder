@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "JAAJAMN1DA": [
+      "REV/REV_015_JAAJAMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "JAAJAMN": [
+      "REV/REV_015_JAAJAMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "JAAJAMN1DA_timing": [
+      "REV/REV_015_JAAJAMN1DA_timing.json"
+    ]
+  }
+}

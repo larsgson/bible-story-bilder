@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KQYBSEN2DA": [
+      "REV/REV_015_KQYBSEN2DA.mp3"
+    ]
+  },
+  "text": {
+    "KQYBSEN": [
+      "REV/REV_015_KQYBSEN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KQYBSEN2DA_timing": [
+      "REV/REV_015_KQYBSEN2DA_timing.json"
+    ]
+  }
+}

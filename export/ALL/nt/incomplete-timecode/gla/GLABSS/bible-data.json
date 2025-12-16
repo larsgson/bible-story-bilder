@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "GLABSSN1DA": [
+      "REV/REV_015_GLABSSN1DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "GLABSSN1DA_timing": [
+      "REV/REV_015_GLABSSN1DA_timing.json"
+    ]
+  }
+}

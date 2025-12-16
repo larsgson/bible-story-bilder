@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KCGWBTN1DA": [
+      "REV/REV_015_KCGWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "KCGWBTN": [
+      "REV/REV_015_KCGWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KCGWBTN1DA_timing": [
+      "REV/REV_015_KCGWBTN1DA_timing.json"
+    ]
+  }
+}

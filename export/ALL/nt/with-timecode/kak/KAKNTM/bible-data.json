@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KAKNTMN1DA": [
+      "REV/REV_015_KAKNTMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "KAKNTMN": [
+      "REV/REV_015_KAKNTMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KAKNTMN1DA_timing": [
+      "REV/REV_015_KAKNTMN1DA_timing.json"
+    ]
+  }
+}

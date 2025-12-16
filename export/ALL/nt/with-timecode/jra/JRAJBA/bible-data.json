@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "JRAJBAN1DA": [
+      "REV/REV_015_JRAJBAN1DA.mp3"
+    ]
+  },
+  "text": {
+    "JRAJBAN": [
+      "REV/REV_015_JRAJBAN_ET.txt"
+    ]
+  },
+  "timing": {
+    "JRAJBAN1DA_timing": [
+      "REV/REV_015_JRAJBAN1DA_timing.json"
+    ]
+  }
+}

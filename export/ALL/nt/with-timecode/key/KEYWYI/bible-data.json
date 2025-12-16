@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KEYWYIN1DA": [
+      "REV/REV_015_KEYWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "KEYWYIN": [
+      "REV/REV_015_KEYWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KEYWYIN1DA_timing": [
+      "REV/REV_015_KEYWYIN1DA_timing.json"
+    ]
+  }
+}

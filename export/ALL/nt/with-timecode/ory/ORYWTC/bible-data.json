@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ORYWTCN1DA": [
+      "REV/REV_015_ORYWTCN1DA.mp3"
+    ]
+  },
+  "text": {
+    "ORYWTCN": [
+      "REV/REV_015_ORYWTCN_ET.txt"
+    ]
+  },
+  "timing": {
+    "ORYWTCN1DA_timing": [
+      "REV/REV_015_ORYWTCN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BTXLAIN1DA": [
+      "REV/REV_015_BTXLAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "BTXLAI": [
+      "REV/REV_015_BTXLAI.txt"
+    ]
+  },
+  "timing": {
+    "BTXLAIN1DA_timing": [
+      "REV/REV_015_BTXLAIN1DA_timing.json"
+    ]
+  }
+}

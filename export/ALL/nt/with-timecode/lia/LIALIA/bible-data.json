@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LIABSLN2DA": [
+      "REV/REV_015_LIABSLN2DA.mp3"
+    ]
+  },
+  "text": {
+    "LIABSLN": [
+      "REV/REV_015_LIABSLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LIABSLN2DA_timing": [
+      "REV/REV_015_LIABSLN2DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "OBOWBTN1DA": [
+      "REV/REV_015_OBOWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "OBOWBTN": [
+      "REV/REV_015_OBOWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "OBOWBTN1DA_timing": [
+      "REV/REV_015_OBOWBTN1DA_timing.json"
+    ]
+  }
+}

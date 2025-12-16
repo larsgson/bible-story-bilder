@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "UBLTAPN1DA": [
+      "REV/REV_015_UBLTAPN1DA.mp3"
+    ]
+  },
+  "text": {
+    "UBLTAPN": [
+      "REV/REV_015_UBLTAPN_ET.txt"
+    ]
+  },
+  "timing": {
+    "UBLTAPN1DA_timing": [
+      "REV/REV_015_UBLTAPN1DA_timing.json"
+    ]
+  }
+}

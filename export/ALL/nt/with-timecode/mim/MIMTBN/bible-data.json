@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MIMWYIN1DA": [
+      "REV/REV_015_MIMWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MIMWYI": [
+      "REV/REV_015_MIMWYI.txt"
+    ]
+  },
+  "timing": {
+    "MIMWYIN1DA_timing": [
+      "REV/REV_015_MIMWYIN1DA_timing.json"
+    ]
+  }
+}

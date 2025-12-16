@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "SKXLAIN1DA": [
+      "REV/REV_015_SKXLAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "SKXLAIN": [
+      "REV/REV_015_SKXLAIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "SKXLAIN1DA_timing": [
+      "REV/REV_015_SKXLAIN1DA_timing.json"
+    ]
+  }
+}

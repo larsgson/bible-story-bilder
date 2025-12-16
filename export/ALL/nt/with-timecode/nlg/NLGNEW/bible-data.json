@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "NLGWBTN1DA": [
+      "REV/REV_015_NLGWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "NLGWBTN": [
+      "REV/REV_015_NLGWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "NLGWBTN1DA_timing": [
+      "REV/REV_015_NLGWBTN1DA_timing.json"
+    ]
+  }
+}

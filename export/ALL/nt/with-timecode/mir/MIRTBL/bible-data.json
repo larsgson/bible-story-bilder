@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MIRTBLN1DA": [
+      "REV/REV_015_MIRTBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MIRTBLN": [
+      "REV/REV_015_MIRTBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MIRTBLN1DA_timing": [
+      "REV/REV_015_MIRTBLN1DA_timing.json"
+    ]
+  }
+}

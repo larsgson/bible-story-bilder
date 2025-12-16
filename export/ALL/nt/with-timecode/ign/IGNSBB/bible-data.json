@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "IGNSBBN2DA": [
+      "REV/REV_015_IGNSBBN2DA.mp3"
+    ]
+  },
+  "text": {
+    "IGNSBBN": [
+      "REV/REV_015_IGNSBBN_ET.txt"
+    ]
+  },
+  "timing": {
+    "IGNSBBN2DA_timing": [
+      "REV/REV_015_IGNSBBN2DA_timing.json"
+    ]
+  }
+}

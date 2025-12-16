@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "XDNPITN1DA": [
+      "REV/REV_015_XDNPITN1DA.mp3"
+    ]
+  },
+  "text": {
+    "XDNPITN": [
+      "REV/REV_015_XDNPITN_ET.txt"
+    ]
+  },
+  "timing": {
+    "XDNPITN1DA_timing": [
+      "REV/REV_015_XDNPITN1DA_timing.json"
+    ]
+  }
+}

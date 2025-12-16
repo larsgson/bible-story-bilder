@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LHUTBSN2DA": [
+      "REV/REV_015_LHUTBSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "LHUTBSN": [
+      "REV/REV_015_LHUTBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LHUTBSN2DA_timing": [
+      "REV/REV_015_LHUTBSN2DA_timing.json"
+    ]
+  }
+}

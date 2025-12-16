@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "CLYAVAN1DA": [
+      "REV/REV_015_CLYAVAN1DA.mp3"
+    ]
+  },
+  "text": {
+    "CLYAVAN": [
+      "REV/REV_015_CLYAVAN_ET.txt"
+    ]
+  },
+  "timing": {
+    "CLYAVAN1DA_timing": [
+      "REV/REV_015_CLYAVAN1DA_timing.json"
+    ]
+  }
+}

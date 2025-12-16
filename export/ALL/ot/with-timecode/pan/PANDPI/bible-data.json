@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PANDPIO1DA": [
+      "PSA/PSA_117_PANDPIO1DA.mp3"
+    ]
+  },
+  "text": {
+    "PANDPI": [
+      "PSA/PSA_117_PANDPI.txt"
+    ]
+  },
+  "timing": {
+    "PANDPIO1DA_timing": [
+      "PSA/PSA_117_PANDPIO1DA_timing.json"
+    ]
+  }
+}

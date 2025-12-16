@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "DRUBSTN1DA": [
+      "REV/REV_015_DRUBSTN1DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "DRUBSTN1DA_timing": [
+      "REV/REV_015_DRUBSTN1DA_timing.json"
+    ]
+  }
+}

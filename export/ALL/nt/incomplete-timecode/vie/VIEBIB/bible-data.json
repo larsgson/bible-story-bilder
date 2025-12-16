@@ -1,0 +1,15 @@
+{
+  "audio": {
+    "VIEBIBN1DA": [
+      "REV/REV_015_VIEBIBN1DA.mp3"
+    ]
+  },
+  "text": {
+    "VIEBIB": []
+  },
+  "timing": {
+    "VIEBIBN1DA_timing": [
+      "REV/REV_015_VIEBIBN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "PORARAN2DA": [
+      "REV/REV_015_PORARAN2DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "PORARAN2DA_timing": [
+      "REV/REV_015_PORARAN2DA_timing.json"
+    ]
+  }
+}

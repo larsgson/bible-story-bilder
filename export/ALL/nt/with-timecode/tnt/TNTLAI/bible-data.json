@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TNTLAIN1DA": [
+      "REV/REV_015_TNTLAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TNTLAIN": [
+      "REV/REV_015_TNTLAIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TNTLAIN1DA_timing": [
+      "REV/REV_015_TNTLAIN1DA_timing.json"
+    ]
+  }
+}

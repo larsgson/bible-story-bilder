@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PAMPBSN2DA": [
+      "REV/REV_015_PAMPBSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "PAMPBSN": [
+      "REV/REV_015_PAMPBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PAMPBSN2DA_timing": [
+      "REV/REV_015_PAMPBSN2DA_timing.json"
+    ]
+  }
+}

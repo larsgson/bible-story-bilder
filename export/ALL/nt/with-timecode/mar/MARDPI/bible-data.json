@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MARDPIN1DA": [
+      "REV/REV_015_MARDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MARDPIN": [
+      "REV/REV_015_MARDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MARDPIN1DA_timing": [
+      "REV/REV_015_MARDPIN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "YUZNTMN1DA": [
+      "REV/REV_015_YUZNTMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "YUZNTMN": [
+      "REV/REV_015_YUZNTMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "YUZNTMN1DA_timing": [
+      "REV/REV_015_YUZNTMN1DA_timing.json"
+    ]
+  }
+}

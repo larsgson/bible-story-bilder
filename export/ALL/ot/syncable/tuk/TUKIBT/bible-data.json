@@ -1,0 +1,14 @@
+{
+  "audio": {
+    "TUKIBTO1DA": [
+      "PSA/PSA_117_TUKIBTO1DA.mp3"
+    ]
+  },
+  "text": {
+    "TUKIBTO": [
+      "PSA/PSA_117_TUKIBTO_ET.txt"
+    ],
+    "TUKIBT": []
+  },
+  "timing": {}
+}

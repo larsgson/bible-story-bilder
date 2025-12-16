@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ORYDPIN1DA": [
+      "REV/REV_015_ORYDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "ORYDPIN": [
+      "REV/REV_015_ORYDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "ORYDPIN1DA_timing": [
+      "REV/REV_015_ORYDPIN1DA_timing.json"
+    ]
+  }
+}

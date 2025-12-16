@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "POEWYIN1DA": [
+      "REV/REV_015_POEWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "POEWYIN": [
+      "REV/REV_015_POEWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "POEWYIN1DA_timing": [
+      "REV/REV_015_POEWYIN1DA_timing.json"
+    ]
+  }
+}

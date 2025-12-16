@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "VUTABCN1DA": [
+      "REV/REV_015_VUTABCN1DA.mp3"
+    ]
+  },
+  "text": {
+    "VUTABCN": [
+      "REV/REV_015_VUTABCN_ET.txt"
+    ]
+  },
+  "timing": {
+    "VUTABCN1DA_timing": [
+      "REV/REV_015_VUTABCN1DA_timing.json"
+    ]
+  }
+}

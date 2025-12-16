@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "SWESFVN1DA": [
+      "REV/REV_015_SWESFVN1DA.mp3"
+    ]
+  },
+  "text": {
+    "SWESFVN": [
+      "REV/REV_015_SWESFVN_ET.txt"
+    ]
+  },
+  "timing": {
+    "SWESFVN1DA_timing": [
+      "REV/REV_015_SWESFVN1DA_timing.json"
+    ]
+  }
+}

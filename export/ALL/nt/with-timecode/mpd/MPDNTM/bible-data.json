@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MPDNTMN1DA": [
+      "REV/REV_015_MPDNTMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MPDNTMN": [
+      "REV/REV_015_MPDNTMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MPDNTMN1DA_timing": [
+      "REV/REV_015_MPDNTMN1DA_timing.json"
+    ]
+  }
+}

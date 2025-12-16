@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "HINOHCN1DA": [
+      "REV/REV_015_HINOHCN1DA.mp3"
+    ]
+  },
+  "text": {
+    "HINOHCN": [
+      "REV/REV_015_HINOHCN_ET.txt"
+    ]
+  },
+  "timing": {
+    "HINOHCN1DA_timing": [
+      "REV/REV_015_HINOHCN1DA_timing.json"
+    ]
+  }
+}

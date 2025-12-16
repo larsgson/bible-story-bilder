@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KJCACCN1DA": [
+      "REV/REV_015_KJCACCN1DA.mp3"
+    ]
+  },
+  "text": {
+    "KJCACCN": [
+      "REV/REV_015_KJCACCN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KJCACCN1DA_timing": [
+      "REV/REV_015_KJCACCN1DA_timing.json"
+    ]
+  }
+}

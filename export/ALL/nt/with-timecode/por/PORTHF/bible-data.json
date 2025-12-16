@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PORTHFN1DA": [
+      "REV/REV_015_PORTHFN1DA.mp3"
+    ]
+  },
+  "text": {
+    "PORTHFN": [
+      "REV/REV_015_PORTHFN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PORTHFN1DA_timing": [
+      "REV/REV_015_PORTHFN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "LOHWBTN1DA": [
+      "REV/REV_015_LOHWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "LOHWBTN": [
+      "REV/REV_015_LOHWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "LOHWBTN1DA_timing": [
+      "REV/REV_015_LOHWBTN1DA_timing.json"
+    ]
+  }
+}

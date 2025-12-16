@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "STBTAPN1DA": [
+      "REV/REV_015_STBTAPN1DA.mp3"
+    ]
+  },
+  "text": {
+    "STBTAPN": [
+      "REV/REV_015_STBTAPN_ET.txt"
+    ]
+  },
+  "timing": {
+    "STBTAPN1DA_timing": [
+      "REV/REV_015_STBTAPN1DA_timing.json"
+    ]
+  }
+}

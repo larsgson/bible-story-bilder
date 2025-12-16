@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "PAONABN1DA": [
+      "REV/REV_015_PAONABN1DA.mp3"
+    ]
+  },
+  "text": {
+    "PAONABN": [
+      "REV/REV_015_PAONABN_ET.txt"
+    ]
+  },
+  "timing": {
+    "PAONABN1DA_timing": [
+      "REV/REV_015_PAONABN1DA_timing.json"
+    ]
+  }
+}

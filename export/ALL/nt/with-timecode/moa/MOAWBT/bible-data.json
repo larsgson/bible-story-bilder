@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MOAWBTN1DA": [
+      "REV/REV_015_MOAWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MOAWBTN": [
+      "REV/REV_015_MOAWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MOAWBTN1DA_timing": [
+      "REV/REV_015_MOAWBTN1DA_timing.json"
+    ]
+  }
+}

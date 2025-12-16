@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "BENDPIO1DA": [
+      "PSA/PSA_117_BENDPIO1DA.mp3"
+    ]
+  },
+  "text": {
+    "BENDPIO": [
+      "PSA/PSA_117_BENDPIO_ET.txt"
+    ]
+  },
+  "timing": {
+    "BENDPIO1DA_timing": [
+      "PSA/PSA_117_BENDPIO1DA_timing.json"
+    ]
+  }
+}

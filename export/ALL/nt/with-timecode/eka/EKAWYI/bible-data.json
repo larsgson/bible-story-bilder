@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "EKAWYIN1DA": [
+      "REV/REV_015_EKAWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "EKAWYI": [
+      "REV/REV_015_EKAWYI.txt"
+    ]
+  },
+  "timing": {
+    "EKAWYIN1DA_timing": [
+      "REV/REV_015_EKAWYIN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TUFWYIN1DA": [
+      "REV/REV_015_TUFWYIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TUFWYIN": [
+      "REV/REV_015_TUFWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TUFWYIN1DA_timing": [
+      "REV/REV_015_TUFWYIN1DA_timing.json"
+    ]
+  }
+}

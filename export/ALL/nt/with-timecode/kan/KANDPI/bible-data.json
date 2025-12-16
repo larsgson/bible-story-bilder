@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KANDPIN1DA": [
+      "REV/REV_015_KANDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "KANDPIN": [
+      "REV/REV_015_KANDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KANDPIN1DA_timing": [
+      "REV/REV_015_KANDPIN1DA_timing.json"
+    ]
+  }
+}

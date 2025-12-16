@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "SNECAKN1DA": [
+      "REV/REV_015_SNECAKN1DA.mp3"
+    ]
+  },
+  "text": {
+    "SNECAKN": [
+      "REV/REV_015_SNECAKN_ET.txt"
+    ]
+  },
+  "timing": {
+    "SNECAKN1DA_timing": [
+      "REV/REV_015_SNECAKN1DA_timing.json"
+    ]
+  }
+}

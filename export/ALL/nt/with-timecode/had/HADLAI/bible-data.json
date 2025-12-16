@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "HADLAIN1DA": [
+      "REV/REV_015_HADLAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "HADLAIN": [
+      "REV/REV_015_HADLAIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "HADLAIN1DA_timing": [
+      "REV/REV_015_HADLAIN1DA_timing.json"
+    ]
+  }
+}

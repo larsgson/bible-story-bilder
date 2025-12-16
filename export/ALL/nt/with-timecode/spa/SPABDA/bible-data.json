@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "SPNBDAN1DA": [
+      "REV/REV_015_SPNBDAN1DA.mp3"
+    ]
+  },
+  "text": {
+    "SPNBDAN": [
+      "REV/REV_015_SPNBDAN_ET.txt"
+    ]
+  },
+  "timing": {
+    "SPNBDAN1DA_timing": [
+      "REV/REV_015_SPNBDAN1DA_timing.json"
+    ]
+  }
+}

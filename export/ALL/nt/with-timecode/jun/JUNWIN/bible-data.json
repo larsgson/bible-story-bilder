@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "JUNWINN1DA": [
+      "REV/REV_015_JUNWINN1DA.mp3"
+    ]
+  },
+  "text": {
+    "JUNWINN": [
+      "REV/REV_015_JUNWINN_ET.txt"
+    ]
+  },
+  "timing": {
+    "JUNWINN1DA_timing": [
+      "REV/REV_015_JUNWINN1DA_timing.json"
+    ]
+  }
+}

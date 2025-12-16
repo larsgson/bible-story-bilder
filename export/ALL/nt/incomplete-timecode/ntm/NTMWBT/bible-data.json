@@ -1,0 +1,15 @@
+{
+  "audio": {
+    "NTMWBTN1DA": [
+      "REV/REV_015_NTMWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "NTMWBTN_ET-usx": []
+  },
+  "timing": {
+    "NTMWBTN1DA_timing": [
+      "REV/REV_015_NTMWBTN1DA_timing.json"
+    ]
+  }
+}

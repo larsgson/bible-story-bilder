@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "VIELHGN1DA": [
+      "REV/REV_015_VIELHGN1DA.mp3"
+    ]
+  },
+  "text": {
+    "VIELHGN": [
+      "REV/REV_015_VIELHGN_ET.txt"
+    ]
+  },
+  "timing": {
+    "VIELHGN1DA_timing": [
+      "REV/REV_015_VIELHGN1DA_timing.json"
+    ]
+  }
+}

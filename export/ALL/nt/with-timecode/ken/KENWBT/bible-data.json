@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KENWBTN2DA": [
+      "REV/REV_015_KENWBTN2DA.mp3"
+    ]
+  },
+  "text": {
+    "KENWBTN": [
+      "REV/REV_015_KENWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KENWBTN2DA_timing": [
+      "REV/REV_015_KENWBTN2DA_timing.json"
+    ]
+  }
+}

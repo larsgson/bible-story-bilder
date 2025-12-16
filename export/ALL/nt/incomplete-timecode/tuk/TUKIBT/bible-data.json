@@ -1,0 +1,15 @@
+{
+  "audio": {
+    "TUKIBTN1DA": [
+      "REV/REV_015_TUKIBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TUKIBT": []
+  },
+  "timing": {
+    "TUKIBTN1DA_timing": [
+      "REV/REV_015_TUKIBTN1DA_timing.json"
+    ]
+  }
+}

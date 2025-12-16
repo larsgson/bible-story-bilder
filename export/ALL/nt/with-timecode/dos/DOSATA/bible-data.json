@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "DOSATAN1DA": [
+      "REV/REV_015_DOSATAN1DA.mp3"
+    ]
+  },
+  "text": {
+    "DOSATAN": [
+      "REV/REV_015_DOSATAN_ET.txt"
+    ]
+  },
+  "timing": {
+    "DOSATAN1DA_timing": [
+      "REV/REV_015_DOSATAN1DA_timing.json"
+    ]
+  }
+}

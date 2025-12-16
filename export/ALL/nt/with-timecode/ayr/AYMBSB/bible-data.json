@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "AYMBSBN2DA": [
+      "REV/REV_015_AYMBSBN2DA.mp3"
+    ]
+  },
+  "text": {
+    "AYMBSB": [
+      "REV/REV_015_AYMBSB.txt"
+    ]
+  },
+  "timing": {
+    "AYMBSBN2DA_timing": [
+      "REV/REV_015_AYMBSBN2DA_timing.json"
+    ]
+  }
+}

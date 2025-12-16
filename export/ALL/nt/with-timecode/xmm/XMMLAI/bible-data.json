@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "XMMLAIN1DA": [
+      "REV/REV_015_XMMLAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "XMMLAIN": [
+      "REV/REV_015_XMMLAIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "XMMLAIN1DA_timing": [
+      "REV/REV_015_XMMLAIN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "GBKDPIN1DA": [
+      "REV/REV_015_GBKDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "GBKDPI": [
+      "REV/REV_015_GBKDPI.txt"
+    ]
+  },
+  "timing": {
+    "GBKDPIN1DA_timing": [
+      "REV/REV_015_GBKDPIN1DA_timing.json"
+    ]
+  }
+}

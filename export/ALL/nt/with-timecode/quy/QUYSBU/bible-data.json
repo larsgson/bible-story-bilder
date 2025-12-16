@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "QUYSBUN2DA": [
+      "REV/REV_015_QUYSBUN2DA.mp3"
+    ]
+  },
+  "text": {
+    "QUYSBUN": [
+      "REV/REV_015_QUYSBUN_ET.txt"
+    ]
+  },
+  "timing": {
+    "QUYSBUN2DA_timing": [
+      "REV/REV_015_QUYSBUN2DA_timing.json"
+    ]
+  }
+}

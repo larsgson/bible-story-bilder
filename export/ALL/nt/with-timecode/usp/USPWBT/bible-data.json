@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "USPWBTN2DA": [
+      "REV/REV_015_USPWBTN2DA.mp3"
+    ]
+  },
+  "text": {
+    "USPWBTN": [
+      "REV/REV_015_USPWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "USPWBTN2DA_timing": [
+      "REV/REV_015_USPWBTN2DA_timing.json"
+    ]
+  }
+}

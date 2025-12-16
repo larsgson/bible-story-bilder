@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "KANDPIO1DA": [
+      "PSA/PSA_117_KANDPIO1DA.mp3"
+    ]
+  },
+  "text": {
+    "KANDPIO": [
+      "PSA/PSA_117_KANDPIO_ET.txt"
+    ]
+  },
+  "timing": {}
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "COTTBLN1DA": [
+      "REV/REV_015_COTTBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "COTTBLN": [
+      "REV/REV_015_COTTBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "COTTBLN1DA_timing": [
+      "REV/REV_015_COTTBLN1DA_timing.json"
+    ]
+  }
+}

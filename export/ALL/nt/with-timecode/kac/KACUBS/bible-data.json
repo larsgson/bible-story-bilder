@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KACUBSN2DA": [
+      "REV/REV_015_KACUBSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "KACUBSN": [
+      "REV/REV_015_KACUBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KACUBSN2DA_timing": [
+      "REV/REV_015_KACUBSN2DA_timing.json"
+    ]
+  }
+}

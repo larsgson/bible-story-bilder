@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "HNDSKVN1DA": [
+      "REV/REV_015_HNDSKVN1DA.mp3"
+    ]
+  },
+  "text": {
+    "HNDSKVN": [
+      "REV/REV_015_HNDSKVN_ET.txt"
+    ]
+  },
+  "timing": {
+    "HNDSKVN1DA_timing": [
+      "REV/REV_015_HNDSKVN1DA_timing.json"
+    ]
+  }
+}

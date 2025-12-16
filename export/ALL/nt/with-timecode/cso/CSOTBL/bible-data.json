@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "CSOTBLN1DA": [
+      "REV/REV_015_CSOTBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "CSOTBLN": [
+      "REV/REV_015_CSOTBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "CSOTBLN1DA_timing": [
+      "REV/REV_015_CSOTBLN1DA_timing.json"
+    ]
+  }
+}

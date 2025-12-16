@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "PDTFLNN1DA": [
+      "REV/REV_015_PDTFLNN1DA.mp3"
+    ]
+  },
+  "text": {},
+  "timing": {
+    "PDTFLNN1DA_timing": [
+      "REV/REV_015_PDTFLNN1DA_timing.json"
+    ]
+  }
+}

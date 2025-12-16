@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "URDIRVO1DA": [
+      "PSA/PSA_117_URDIRVO1DA.mp3"
+    ]
+  },
+  "text": {
+    "URDIRVO": [
+      "PSA/PSA_117_URDIRVO_ET.txt"
+    ]
+  },
+  "timing": {
+    "URDIRVO1DA_timing": [
+      "PSA/PSA_117_URDIRVO1DA_timing.json"
+    ]
+  }
+}

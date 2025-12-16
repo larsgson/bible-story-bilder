@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "EMPWYIN2DA": [
+      "REV/REV_015_EMPWYIN2DA.mp3"
+    ]
+  },
+  "text": {
+    "EMPWYIN": [
+      "REV/REV_015_EMPWYIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "EMPWYIN2DA_timing": [
+      "REV/REV_015_EMPWYIN2DA_timing.json"
+    ]
+  }
+}

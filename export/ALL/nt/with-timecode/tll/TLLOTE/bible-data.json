@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TLLDRCN2DA": [
+      "REV/REV_015_TLLDRCN2DA.mp3"
+    ]
+  },
+  "text": {
+    "TLLDRCN": [
+      "REV/REV_015_TLLDRCN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TLLDRCN2DA_timing": [
+      "REV/REV_015_TLLDRCN2DA_timing.json"
+    ]
+  }
+}

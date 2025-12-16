@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KZFLAIN1DA": [
+      "REV/REV_015_KZFLAIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "KZFLAIN": [
+      "REV/REV_015_KZFLAIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "KZFLAIN1DA_timing": [
+      "REV/REV_015_KZFLAIN1DA_timing.json"
+    ]
+  }
+}

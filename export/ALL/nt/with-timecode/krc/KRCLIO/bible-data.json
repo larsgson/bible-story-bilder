@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "KRCLION1DA": [
+      "REV/REV_015_KRCLION1DA.mp3"
+    ]
+  },
+  "text": {
+    "KRCLION": [
+      "REV/REV_015_KRCLION_ET.txt"
+    ]
+  },
+  "timing": {
+    "KRCLION1DA_timing": [
+      "REV/REV_015_KRCLION1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "CMRWBTN1DA": [
+      "REV/REV_015_CMRWBTN1DA.mp3"
+    ]
+  },
+  "text": {
+    "CMRWBTN": [
+      "REV/REV_015_CMRWBTN_ET.txt"
+    ]
+  },
+  "timing": {
+    "CMRWBTN1DA_timing": [
+      "REV/REV_015_CMRWBTN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "YORDPIN1DA": [
+      "REV/REV_015_YORDPIN1DA.mp3"
+    ]
+  },
+  "text": {
+    "YORDPIN": [
+      "REV/REV_015_YORDPIN_ET.txt"
+    ]
+  },
+  "timing": {
+    "YORDPIN1DA_timing": [
+      "REV/REV_015_YORDPIN1DA_timing.json"
+    ]
+  }
+}

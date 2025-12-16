@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "QUZPBSN2DA": [
+      "REV/REV_015_QUZPBSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "QUZPBSN": [
+      "REV/REV_015_QUZPBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "QUZPBSN2DA_timing": [
+      "REV/REV_015_QUZPBSN2DA_timing.json"
+    ]
+  }
+}

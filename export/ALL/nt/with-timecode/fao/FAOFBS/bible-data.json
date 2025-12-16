@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "FAOFBSN1DA": [
+      "REV/REV_015_FAOFBSN1DA.mp3"
+    ]
+  },
+  "text": {
+    "FAOFBSN": [
+      "REV/REV_015_FAOFBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "FAOFBSN1DA_timing": [
+      "REV/REV_015_FAOFBSN1DA_timing.json"
+    ]
+  }
+}

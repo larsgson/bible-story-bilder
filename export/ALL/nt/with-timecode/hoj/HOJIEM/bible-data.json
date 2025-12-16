@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "HOJIEMN1DA": [
+      "REV/REV_015_HOJIEMN1DA.mp3"
+    ]
+  },
+  "text": {
+    "HOJIEMN": [
+      "REV/REV_015_HOJIEMN_ET.txt"
+    ]
+  },
+  "timing": {
+    "HOJIEMN1DA_timing": [
+      "REV/REV_015_HOJIEMN1DA_timing.json"
+    ]
+  }
+}

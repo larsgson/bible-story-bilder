@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "ENGESVN1DA": [
+      "REV/REV_015_ENGESVN1DA.mp3"
+    ]
+  },
+  "text": {
+    "ENGESVN": [
+      "REV/REV_015_ENGESVN_ET.txt"
+    ]
+  },
+  "timing": {
+    "ENGESVN1DA_timing": [
+      "REV/REV_015_ENGESVN1DA_timing.json"
+    ]
+  }
+}

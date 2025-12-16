@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TAMDIPN1DA": [
+      "REV/REV_015_TAMDIPN1DA.mp3"
+    ]
+  },
+  "text": {
+    "TAMDIPN": [
+      "REV/REV_015_TAMDIPN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TAMDIPN1DA_timing": [
+      "REV/REV_015_TAMDIPN1DA_timing.json"
+    ]
+  }
+}

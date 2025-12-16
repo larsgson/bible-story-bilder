@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "TIRUBSN2DA": [
+      "REV/REV_015_TIRUBSN2DA.mp3"
+    ]
+  },
+  "text": {
+    "TIRUBSN": [
+      "REV/REV_015_TIRUBSN_ET.txt"
+    ]
+  },
+  "timing": {
+    "TIRUBSN2DA_timing": [
+      "REV/REV_015_TIRUBSN2DA_timing.json"
+    ]
+  }
+}

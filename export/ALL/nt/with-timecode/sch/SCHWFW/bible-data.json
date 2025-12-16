@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "SCHWFWN1DA": [
+      "REV/REV_015_SCHWFWN1DA.mp3"
+    ]
+  },
+  "text": {
+    "SCHWFWN": [
+      "REV/REV_015_SCHWFWN_ET.txt"
+    ]
+  },
+  "timing": {
+    "SCHWFWN1DA_timing": [
+      "REV/REV_015_SCHWFWN1DA_timing.json"
+    ]
+  }
+}

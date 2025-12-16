@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "MCFTBLN1DA": [
+      "REV/REV_015_MCFTBLN1DA.mp3"
+    ]
+  },
+  "text": {
+    "MCFTBLN": [
+      "REV/REV_015_MCFTBLN_ET.txt"
+    ]
+  },
+  "timing": {
+    "MCFTBLN1DA_timing": [
+      "REV/REV_015_MCFTBLN1DA_timing.json"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "audio": {
+    "CKBIBSN1DA": [
+      "REV/REV_015_CKBIBSN1DA.mp3"
+    ]
+  },
+  "text": {
+    "CKBIBS": []
+  },
+  "timing": {
+    "CKBIBSN1DA_timing": [
+      "REV/REV_015_CKBIBSN1DA_timing.json"
+    ]
+  }
+}
