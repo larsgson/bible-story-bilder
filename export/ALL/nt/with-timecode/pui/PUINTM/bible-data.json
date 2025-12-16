@@ -1,17 +1,17 @@
 {
   "audio": {
     "PUINTMN1DA": [
-      "REV/REV_015_PUINTMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PUINTMN": [
-      "REV/REV_015_PUINTMN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "PUINTMN1DA_timing": [
-      "REV/REV_015_PUINTMN1DA_timing.json"
+      ".json"
     ]
   }
 }

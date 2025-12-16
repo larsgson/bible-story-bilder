@@ -1,12 +1,12 @@
 {
   "audio": {
     "LJELAIN1DA": [
-      "REV/REV_015_LJELAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LJELAI": [
-      "REV/REV_015_LJELAI.txt"
+      ".txt"
     ]
   },
   "timing": {}

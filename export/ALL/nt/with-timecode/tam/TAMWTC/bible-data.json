@@ -1,17 +1,17 @@
 {
   "audio": {
     "TCVWTCN1DA": [
-      "REV/REV_015_TCVWTCN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TCVWTCN": [
-      "REV/REV_015_TCVWTCN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "TCVWTCN1DA_timing": [
-      "REV/REV_015_TCVWTCN1DA_timing.json"
+      ".json"
     ]
   }
 }

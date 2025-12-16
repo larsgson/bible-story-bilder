@@ -1,17 +1,17 @@
 {
   "audio": {
     "TLYKSVN1DA": [
-      "REV/REV_015_TLYKSVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TLYKSV": [
-      "REV/REV_015_TLYKSV.txt"
+      ".txt"
     ]
   },
   "timing": {
     "TLYKSVN1DA_timing": [
-      "REV/REV_015_TLYKSVN1DA_timing.json"
+      ".json"
     ]
   }
 }

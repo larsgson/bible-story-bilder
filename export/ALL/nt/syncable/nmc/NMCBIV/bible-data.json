@@ -1,12 +1,12 @@
 {
   "audio": {
     "NMCBIVN1DA": [
-      "REV/REV_015_NMCBIVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NMCBIVN": [
-      "REV/REV_015_NMCBIVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

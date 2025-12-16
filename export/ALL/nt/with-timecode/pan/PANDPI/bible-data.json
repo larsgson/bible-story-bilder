@@ -1,17 +1,17 @@
 {
   "audio": {
     "PANDPIN1DA": [
-      "REV/REV_015_PANDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PANDPI": [
-      "REV/REV_015_PANDPI.txt"
+      ".txt"
     ]
   },
   "timing": {
     "PANDPIN1DA_timing": [
-      "REV/REV_015_PANDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

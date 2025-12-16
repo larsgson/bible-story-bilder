@@ -1,17 +1,17 @@
 {
   "audio": {
     "KYVDPIN1DA": [
-      "REV/REV_015_KYVDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KYVDPIN": [
-      "REV/REV_015_KYVDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KYVDPIN1DA_timing": [
-      "REV/REV_015_KYVDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

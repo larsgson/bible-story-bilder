@@ -1,12 +1,12 @@
 {
   "audio": {
     "PORBSPO1DA": [
-      "PSA/PSA_117_PORBSPO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PORBSPO": [
-      "PSA/PSA_117_PORBSPO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

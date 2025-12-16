@@ -1,12 +1,12 @@
 {
   "audio": {
     "APDAS2N2DA": [
-      "REV/REV_015_APDAS2N2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "APDAS2": [
-      "REV/REV_015_APDAS2.txt"
+      ".txt"
     ]
   },
   "timing": {}

@@ -1,17 +1,17 @@
 {
   "audio": {
     "GUJDPIO1DA": [
-      "PSA/PSA_117_GUJDPIO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GUJDPIO": [
-      "PSA/PSA_117_GUJDPIO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GUJDPIO1DA_timing": [
-      "PSA/PSA_117_GUJDPIO1DA_timing.json"
+      ".json"
     ]
   }
 }

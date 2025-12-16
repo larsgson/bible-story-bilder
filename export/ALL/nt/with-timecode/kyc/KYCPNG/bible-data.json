@@ -1,17 +1,17 @@
 {
   "audio": {
     "KYCPNGN2DA": [
-      "REV/REV_015_KYCPNGN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KYCPNGN": [
-      "REV/REV_015_KYCPNGN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KYCPNGN2DA_timing": [
-      "REV/REV_015_KYCPNGN2DA_timing.json"
+      ".json"
     ]
   }
 }

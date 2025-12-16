@@ -1,12 +1,12 @@
 {
   "audio": {
     "HAKTHVO2DA": [
-      "PSA/PSA_117_HAKTHVO2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HAKTHVO": [
-      "PSA/PSA_117_HAKTHVO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

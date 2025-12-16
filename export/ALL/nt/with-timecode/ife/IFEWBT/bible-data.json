@@ -1,17 +1,17 @@
 {
   "audio": {
     "IFEWBTN1DA": [
-      "REV/REV_015_IFEWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "IFEWBT": [
-      "REV/REV_015_IFEWBT.txt"
+      ".txt"
     ]
   },
   "timing": {
     "IFEWBTN1DA_timing": [
-      "REV/REV_015_IFEWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

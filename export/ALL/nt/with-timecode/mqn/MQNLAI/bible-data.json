@@ -1,17 +1,17 @@
 {
   "audio": {
     "MQNLAIN1DA": [
-      "REV/REV_015_MQNLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MQNLAIN": [
-      "REV/REV_015_MQNLAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MQNLAIN1DA_timing": [
-      "REV/REV_015_MQNLAIN1DA_timing.json"
+      ".json"
     ]
   }
 }

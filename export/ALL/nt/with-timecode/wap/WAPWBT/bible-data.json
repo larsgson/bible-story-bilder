@@ -1,17 +1,17 @@
 {
   "audio": {
     "WAPWYIN1DA": [
-      "REV/REV_015_WAPWYIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "WAPWYIN": [
-      "REV/REV_015_WAPWYIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "WAPWYIN1DA_timing": [
-      "REV/REV_015_WAPWYIN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
   "audio": {
     "ALTIBTN2DA": [
-      "REV/REV_015_ALTIBTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ALTIBTN": [
-      "REV/REV_015_ALTIBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "ALTIBTN2DA_timing": [
-      "REV/REV_015_ALTIBTN2DA_timing.json"
+      ".json"
     ]
   }
 }

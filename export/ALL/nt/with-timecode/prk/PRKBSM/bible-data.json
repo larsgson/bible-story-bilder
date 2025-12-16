@@ -1,17 +1,17 @@
 {
   "audio": {
     "PRKBSMN1DA": [
-      "REV/REV_015_PRKBSMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PRKBSM": [
-      "REV/REV_015_PRKBSM.txt"
+      ".txt"
     ]
   },
   "timing": {
     "PRKBSMN1DA_timing": [
-      "REV/REV_015_PRKBSMN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
   "audio": {
     "LUCHLAN1DA": [
-      "REV/REV_015_LUCHLAN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LUCHLAN": [
-      "REV/REV_015_LUCHLAN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "LUCHLAN1DA_timing": [
-      "REV/REV_015_LUCHLAN1DA_timing.json"
+      ".json"
     ]
   }
 }

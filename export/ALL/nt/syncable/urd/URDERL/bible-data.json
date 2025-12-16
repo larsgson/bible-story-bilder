@@ -1,12 +1,12 @@
 {
   "audio": {
     "URDERLN1DA": [
-      "REV/REV_015_URDERLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "URDERL": [
-      "REV/REV_015_URDERL.txt"
+      ".txt"
     ]
   },
   "timing": {}

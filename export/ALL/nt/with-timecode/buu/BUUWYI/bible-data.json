@@ -1,17 +1,17 @@
 {
   "audio": {
     "BUUWYIN1DA": [
-      "REV/REV_015_BUUWYIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BUUWYIN": [
-      "REV/REV_015_BUUWYIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "BUUWYIN1DA_timing": [
-      "REV/REV_015_BUUWYIN1DA_timing.json"
+      ".json"
     ]
   }
 }

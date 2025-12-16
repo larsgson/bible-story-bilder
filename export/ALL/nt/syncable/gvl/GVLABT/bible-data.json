@@ -1,12 +1,12 @@
 {
   "audio": {
     "GVLABTN2DA": [
-      "REV/REV_015_GVLABTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GVLABT": [
-      "REV/REV_015_GVLABT.txt"
+      ".txt"
     ]
   },
   "timing": {}

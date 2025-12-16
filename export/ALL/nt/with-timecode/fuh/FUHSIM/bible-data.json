@@ -1,17 +1,17 @@
 {
   "audio": {
     "FUHSIMN1DA": [
-      "REV/REV_015_FUHSIMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "FUHSIMN": [
-      "REV/REV_015_FUHSIMN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "FUHSIMN1DA_timing": [
-      "REV/REV_015_FUHSIMN1DA_timing.json"
+      ".json"
     ]
   }
 }

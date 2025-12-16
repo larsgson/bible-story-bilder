@@ -1,12 +1,12 @@
 {
   "audio": {
     "CH1CNVO1DA": [
-      "PSA/PSA_117_CH1CNVO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CH1CNVO": [
-      "PSA/PSA_117_CH1CNVO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

@@ -1,17 +1,17 @@
 {
   "audio": {
     "NAGDPIN1DA": [
-      "REV/REV_015_NAGDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NAGDPIN": [
-      "REV/REV_015_NAGDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "NAGDPIN1DA_timing": [
-      "REV/REV_015_NAGDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "audio": {
     "NLCLAIN1DA": [
-      "REV/REV_015_NLCLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NLCLAI": [
-      "REV/REV_015_NLCLAI.txt"
+      ".txt"
     ]
   },
   "timing": {}

@@ -1,12 +1,12 @@
 {
   "audio": {
     "DA2WSTN2DA": [
-      "REV/REV_015_DA2WSTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "DA2WSTN": [
-      "REV/REV_015_DA2WSTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

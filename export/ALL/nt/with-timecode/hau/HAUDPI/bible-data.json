@@ -1,17 +1,17 @@
 {
   "audio": {
     "HAUDPIN1DA": [
-      "REV/REV_015_HAUDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HAUDPIN": [
-      "REV/REV_015_HAUDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "HAUDPIN1DA_timing": [
-      "REV/REV_015_HAUDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

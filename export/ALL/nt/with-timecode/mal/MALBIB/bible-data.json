@@ -1,17 +1,17 @@
 {
   "audio": {
     "MALBIBN1DA": [
-      "REV/REV_015_MALBIBN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MALBIBN": [
-      "REV/REV_015_MALBIBN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MALBIBN1DA_timing": [
-      "REV/REV_015_MALBIBN1DA_timing.json"
+      ".json"
     ]
   }
 }

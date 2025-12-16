@@ -1,17 +1,17 @@
 {
   "audio": {
     "TCYNL1N1DA": [
-      "REV/REV_015_TCYNL1N1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TCYNL1N": [
-      "REV/REV_015_TCYNL1N_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "TCYNL1N1DA_timing": [
-      "REV/REV_015_TCYNL1N1DA_timing.json"
+      ".json"
     ]
   }
 }

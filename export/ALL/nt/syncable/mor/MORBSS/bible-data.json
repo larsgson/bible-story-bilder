@@ -1,12 +1,12 @@
 {
   "audio": {
     "MORBSSN2DA": [
-      "REV/REV_015_MORBSSN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MORBSS": [
-      "REV/REV_015_MORBSS.txt"
+      ".txt"
     ]
   },
   "timing": {}

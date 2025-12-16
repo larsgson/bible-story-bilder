@@ -1,17 +1,17 @@
 {
   "audio": {
     "MUVNLCN1DA": [
-      "REV/REV_015_MUVNLCN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MUVNLCN": [
-      "REV/REV_015_MUVNLCN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MUVNLCN1DA_timing": [
-      "REV/REV_015_MUVNLCN1DA_timing.json"
+      ".json"
     ]
   }
 }

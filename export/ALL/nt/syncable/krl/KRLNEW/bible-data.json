@@ -1,12 +1,12 @@
 {
   "audio": {
     "KRLIBTN1DA": [
-      "REV/REV_015_KRLIBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KRLIBTN": [
-      "REV/REV_015_KRLIBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

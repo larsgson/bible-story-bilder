@@ -1,17 +1,17 @@
 {
   "audio": {
     "ALJOMFN2DA": [
-      "REV/REV_015_ALJOMFN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ALJOMFN": [
-      "REV/REV_015_ALJOMFN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "ALJOMFN2DA_timing": [
-      "REV/REV_015_ALJOMFN2DA_timing.json"
+      ".json"
     ]
   }
 }

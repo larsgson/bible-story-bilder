@@ -1,17 +1,17 @@
 {
   "audio": {
     "ESENTMN2DA": [
-      "REV/REV_015_ESENTMN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ESENTM": [
-      "REV/REV_015_ESENTM.txt"
+      ".txt"
     ]
   },
   "timing": {
     "ESENTMN2DA_timing": [
-      "REV/REV_015_ESENTMN2DA_timing.json"
+      ".json"
     ]
   }
 }

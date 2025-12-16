@@ -1,17 +1,17 @@
 {
   "audio": {
     "COUWBTN1DA": [
-      "REV/REV_015_COUWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "COUWBTN": [
-      "REV/REV_015_COUWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "COUWBTN1DA_timing": [
-      "REV/REV_015_COUWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

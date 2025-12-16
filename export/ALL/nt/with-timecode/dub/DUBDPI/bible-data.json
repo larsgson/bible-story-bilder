@@ -1,17 +1,17 @@
 {
   "audio": {
     "DUBDPIN1DA": [
-      "REV/REV_015_DUBDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "DUBDPIN": [
-      "REV/REV_015_DUBDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "DUBDPIN1DA_timing": [
-      "REV/REV_015_DUBDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

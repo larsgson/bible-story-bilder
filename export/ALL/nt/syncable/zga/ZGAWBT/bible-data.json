@@ -1,12 +1,12 @@
 {
   "audio": {
     "ZGAWBTN1DA": [
-      "REV/REV_015_ZGAWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ZGAWBTN": [
-      "REV/REV_015_ZGAWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

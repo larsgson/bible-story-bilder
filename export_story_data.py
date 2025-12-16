@@ -108,6 +108,40 @@ def get_fileset_type(fileset_id: str):
     return "text"  # Default assumption
 
 
+def clean_file_path(file_path: str, fileset_id: str) -> str:
+    """
+    Clean file path by removing redundant book/chapter prefix and fileset_id prefix.
+
+    Example:
+        Input: "REV/REV_015_AAAMLTN1DA.mp3", fileset_id: "AAAMLTN1DA"
+        Output: ".mp3"
+
+        Input: "REV/REV_015_AAAMLTN_ET.txt", fileset_id: "AAAMLTN"
+        Output: "_ET.txt"
+
+        Input: "REV/REV_015_AAAMLTN1DA_timing.json", fileset_id: "AAAMLTN1DA_timing"
+        Output: ".json"
+    """
+    # Get the filename from the path
+    path_obj = Path(file_path)
+    filename = path_obj.name
+
+    # Remove the book/chapter prefix pattern (e.g., "REV_015_")
+    # This pattern is: BOOK_CCC_ where BOOK is 3 letters and CCC is 3 digits
+    parts = filename.split("_")
+    if len(parts) >= 3:
+        # Reconstruct without the first two parts (BOOK and CCC)
+        filename = "_".join(parts[2:])
+
+    # Now remove the fileset_id prefix if it matches exactly at the start
+    # For timing files, the fileset_id includes "_timing" suffix
+    if filename.startswith(fileset_id):
+        # Remove the fileset_id from the beginning
+        filename = filename[len(fileset_id) :]
+
+    return filename
+
+
 def collect_files_for_distinct_id(distinct_id_path: Path):
     """
     Collect all downloaded files under a distinct_id directory.
@@ -163,7 +197,9 @@ def collect_files_for_distinct_id(distinct_id_path: Path):
 
         files_list = filesets[fileset_id]["files"]
         if isinstance(files_list, list):
-            files_list.append(str(relative_path))
+            # Clean the file path before adding
+            cleaned_path = clean_file_path(str(relative_path), fileset_id)
+            files_list.append(cleaned_path)
         if filesets[fileset_id]["type"] is None:
             filesets[fileset_id]["type"] = file_type
 

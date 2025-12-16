@@ -1,17 +1,17 @@
 {
   "audio": {
     "FRDWBTN1DA": [
-      "REV/REV_015_FRDWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "FRDWBTN": [
-      "REV/REV_015_FRDWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "FRDWBTN1DA_timing": [
-      "REV/REV_015_FRDWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

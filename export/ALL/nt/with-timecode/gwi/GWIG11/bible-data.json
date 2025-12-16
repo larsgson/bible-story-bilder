@@ -1,17 +1,17 @@
 {
   "audio": {
     "GWIWBTN1DA": [
-      "REV/REV_015_GWIWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GWIWBTN": [
-      "REV/REV_015_GWIWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GWIWBTN1DA_timing": [
-      "REV/REV_015_GWIWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

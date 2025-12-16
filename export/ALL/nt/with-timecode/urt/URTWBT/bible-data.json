@@ -1,17 +1,17 @@
 {
   "audio": {
     "URTWBTN1DA": [
-      "REV/REV_015_URTWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "URTWBTN": [
-      "REV/REV_015_URTWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "URTWBTN1DA_timing": [
-      "REV/REV_015_URTWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

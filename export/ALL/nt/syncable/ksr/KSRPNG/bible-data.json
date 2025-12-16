@@ -1,12 +1,12 @@
 {
   "audio": {
     "KSRPNGN1DA": [
-      "REV/REV_015_KSRPNGN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KSRPNG": [
-      "REV/REV_015_KSRPNG.txt"
+      ".txt"
     ]
   },
   "timing": {}

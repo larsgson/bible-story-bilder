@@ -1,12 +1,12 @@
 {
   "audio": {
     "KNJSBIN2DA": [
-      "REV/REV_015_KNJSBIN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KNJSBIN": [
-      "REV/REV_015_KNJSBIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

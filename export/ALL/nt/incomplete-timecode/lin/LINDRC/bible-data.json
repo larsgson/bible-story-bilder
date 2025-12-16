@@ -1,7 +1,7 @@
 {
   "audio": {
     "LINRDCN2DA": [
-      "REV/REV_015_LINRDCN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "LINRDCN2DA_timing": [
-      "REV/REV_015_LINRDCN2DA_timing.json"
+      ".json"
     ]
   }
 }

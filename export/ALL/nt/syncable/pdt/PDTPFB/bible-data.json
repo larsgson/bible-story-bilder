@@ -1,12 +1,12 @@
 {
   "audio": {
     "GRNNVSN1DA": [
-      "REV/REV_015_GRNNVSN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GRNNVS": [
-      "REV/REV_015_GRNNVS.txt"
+      ".txt"
     ]
   },
   "timing": {}

@@ -1,17 +1,17 @@
 {
   "audio": {
     "GAZBIBN1DA": [
-      "REV/REV_015_GAZBIBN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GAZBIBN": [
-      "REV/REV_015_GAZBIBN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GAZBIBN1DA_timing": [
-      "REV/REV_015_GAZBIBN1DA_timing.json"
+      ".json"
     ]
   }
 }

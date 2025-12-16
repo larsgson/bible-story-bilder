@@ -1,12 +1,12 @@
 {
   "audio": {
     "NGADRCN1DA": [
-      "REV/REV_015_NGADRCN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NGADRC": [
-      "REV/REV_015_NGADRC.txt"
+      ".txt"
     ]
   },
   "timing": {}

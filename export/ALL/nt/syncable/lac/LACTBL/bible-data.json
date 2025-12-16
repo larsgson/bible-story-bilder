@@ -1,12 +1,12 @@
 {
   "audio": {
     "LACTBLN1DA": [
-      "REV/REV_015_LACTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LACTBL": [
-      "REV/REV_015_LACTBL.txt"
+      ".txt"
     ]
   },
   "timing": {}

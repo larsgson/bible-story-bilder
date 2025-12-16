@@ -1,13 +1,13 @@
 {
   "audio": {
     "LOMBSLN2DA": [
-      "REV/REV_015_LOMBSLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "LOMBSLN2DA_timing": [
-      "REV/REV_015_LOMBSLN2DA_timing.json"
+      ".json"
     ]
   }
 }

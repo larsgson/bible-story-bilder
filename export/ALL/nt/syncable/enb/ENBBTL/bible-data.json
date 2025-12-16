@@ -1,12 +1,12 @@
 {
   "audio": {
     "ENBBTLN2DA": [
-      "REV/REV_015_ENBBTLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ENBBTL": [
-      "REV/REV_015_ENBBTL.txt"
+      ".txt"
     ]
   },
   "timing": {}

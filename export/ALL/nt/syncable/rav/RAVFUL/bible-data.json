@@ -1,12 +1,12 @@
 {
   "audio": {
     "RAVNLPN2DA": [
-      "REV/REV_015_RAVNLPN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "RAVNLP": [
-      "REV/REV_015_RAVNLP.txt"
+      ".txt"
     ]
   },
   "timing": {}

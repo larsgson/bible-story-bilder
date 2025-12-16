@@ -1,13 +1,13 @@
 {
   "audio": {
     "KSSBSLN2DA": [
-      "REV/REV_015_KSSBSLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "KSSBSLN2DA_timing": [
-      "REV/REV_015_KSSBSLN2DA_timing.json"
+      ".json"
     ]
   }
 }

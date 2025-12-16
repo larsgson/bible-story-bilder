@@ -1,17 +1,17 @@
 {
   "audio": {
     "CARBSSN2DA": [
-      "REV/REV_015_CARBSSN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CARBSSN": [
-      "REV/REV_015_CARBSSN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "CARBSSN2DA_timing": [
-      "REV/REV_015_CARBSSN2DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
   "audio": {
     "UNRWFWN1DA": [
-      "REV/REV_015_UNRWFWN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "UNRWFWN": [
-      "REV/REV_015_UNRWFWN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "UNRWFWN1DA_timing": [
-      "REV/REV_015_UNRWFWN1DA_timing.json"
+      ".json"
     ]
   }
 }

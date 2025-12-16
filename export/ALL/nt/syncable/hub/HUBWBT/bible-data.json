@@ -1,12 +1,12 @@
 {
   "audio": {
     "HUBWBTN2DA": [
-      "REV/REV_015_HUBWBTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HUBWBT": [
-      "REV/REV_015_HUBWBT.txt"
+      ".txt"
     ]
   },
   "timing": {}

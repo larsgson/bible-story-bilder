@@ -1,17 +1,17 @@
 {
   "audio": {
     "CTGBSBN1DA": [
-      "REV/REV_015_CTGBSBN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CTGBSB": [
-      "REV/REV_015_CTGBSB.txt"
+      ".txt"
     ]
   },
   "timing": {
     "CTGBSBN1DA_timing": [
-      "REV/REV_015_CTGBSBN1DA_timing.json"
+      ".json"
     ]
   }
 }

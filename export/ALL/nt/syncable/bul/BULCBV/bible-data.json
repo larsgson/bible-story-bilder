@@ -1,12 +1,12 @@
 {
   "audio": {
     "BULCBVN2DA": [
-      "REV/REV_015_BULCBVN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BULCBVN": [
-      "REV/REV_015_BULCBVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

@@ -1,17 +1,17 @@
 {
   "audio": {
     "GBPACAN1DA": [
-      "REV/REV_015_GBPACAN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GBPACAN": [
-      "REV/REV_015_GBPACAN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GBPACAN1DA_timing": [
-      "REV/REV_015_GBPACAN1DA_timing.json"
+      ".json"
     ]
   }
 }

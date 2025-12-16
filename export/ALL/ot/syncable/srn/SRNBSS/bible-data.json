@@ -1,12 +1,12 @@
 {
   "audio": {
     "SRNBSSO1DA": [
-      "PSA/PSA_117_SRNBSSO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SRNBSSO": [
-      "PSA/PSA_117_SRNBSSO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

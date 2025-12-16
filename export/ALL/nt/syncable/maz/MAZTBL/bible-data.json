@@ -1,12 +1,12 @@
 {
   "audio": {
     "MAZTBLN2DA": [
-      "REV/REV_015_MAZTBLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MAZTBLN": [
-      "REV/REV_015_MAZTBLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

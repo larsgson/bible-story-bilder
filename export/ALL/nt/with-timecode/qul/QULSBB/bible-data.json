@@ -1,17 +1,17 @@
 {
   "audio": {
     "QULSBBN2DA": [
-      "REV/REV_015_QULSBBN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "QULSBBN": [
-      "REV/REV_015_QULSBBN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "QULSBBN2DA_timing": [
-      "REV/REV_015_QULSBBN2DA_timing.json"
+      ".json"
     ]
   }
 }

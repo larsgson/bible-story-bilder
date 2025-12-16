@@ -1,17 +1,17 @@
 {
   "audio": {
     "MSYPNGN2DA": [
-      "REV/REV_015_MSYPNGN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MSYPNGN": [
-      "REV/REV_015_MSYPNGN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MSYPNGN2DA_timing": [
-      "REV/REV_015_MSYPNGN2DA_timing.json"
+      ".json"
     ]
   }
 }

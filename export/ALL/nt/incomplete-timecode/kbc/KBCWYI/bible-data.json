@@ -1,13 +1,13 @@
 {
   "audio": {
     "KBCWYIN1DA": [
-      "REV/REV_015_KBCWYIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "KBCWYIN1DA_timing": [
-      "REV/REV_015_KBCWYIN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
   "audio": {
     "SAQSIVN1DA": [
-      "REV/REV_015_SAQSIVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SAQSIVN": [
-      "REV/REV_015_SAQSIVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "SAQSIVN1DA_timing": [
-      "REV/REV_015_SAQSIVN1DA_timing.json"
+      ".json"
     ]
   }
 }

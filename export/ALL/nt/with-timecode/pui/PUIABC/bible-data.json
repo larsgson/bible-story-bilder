@@ -1,17 +1,17 @@
 {
   "audio": {
     "PUISMVN1DA": [
-      "REV/REV_015_PUISMVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PUISMVN": [
-      "REV/REV_015_PUISMVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "PUISMVN1DA_timing": [
-      "REV/REV_015_PUISMVN1DA_timing.json"
+      ".json"
     ]
   }
 }

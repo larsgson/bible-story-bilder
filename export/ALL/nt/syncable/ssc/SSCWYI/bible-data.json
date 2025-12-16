@@ -1,12 +1,12 @@
 {
   "audio": {
     "SSCWYIN2DA": [
-      "REV/REV_015_SSCWYIN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SSCWYIN": [
-      "REV/REV_015_SSCWYIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

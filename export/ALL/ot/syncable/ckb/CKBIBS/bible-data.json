@@ -1,12 +1,12 @@
 {
   "audio": {
     "CKBIBSO1DA": [
-      "PSA/PSA_117_CKBIBSO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CKBIBSO": [
-      "PSA/PSA_117_CKBIBSO_ET.txt"
+      "_ET.txt"
     ],
     "CKBIBS": []
   },

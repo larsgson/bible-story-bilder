@@ -1,12 +1,12 @@
 {
   "audio": {
     "GEFSGVN1DA": [
-      "REV/REV_015_GEFSGVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GEFSGV": [
-      "REV/REV_015_GEFSGV.txt"
+      ".txt"
     ]
   },
   "timing": {}

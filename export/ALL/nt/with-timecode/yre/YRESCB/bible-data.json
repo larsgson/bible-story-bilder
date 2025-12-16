@@ -1,17 +1,17 @@
 {
   "audio": {
     "YRESCBN1DA": [
-      "REV/REV_015_YRESCBN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "YRESCB": [
-      "REV/REV_015_YRESCB.txt"
+      ".txt"
     ]
   },
   "timing": {
     "YRESCBN1DA_timing": [
-      "REV/REV_015_YRESCBN1DA_timing.json"
+      ".json"
     ]
   }
 }

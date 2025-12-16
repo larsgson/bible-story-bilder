@@ -1,17 +1,17 @@
 {
   "audio": {
     "MAXLAIN1DA": [
-      "REV/REV_015_MAXLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MAXLAIN": [
-      "REV/REV_015_MAXLAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MAXLAIN1DA_timing": [
-      "REV/REV_015_MAXLAIN1DA_timing.json"
+      ".json"
     ]
   }
 }

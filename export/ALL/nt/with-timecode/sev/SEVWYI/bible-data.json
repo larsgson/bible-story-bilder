@@ -1,17 +1,17 @@
 {
   "audio": {
     "SEVWYIN1DA": [
-      "REV/REV_015_SEVWYIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SEVWYIN": [
-      "REV/REV_015_SEVWYIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "SEVWYIN1DA_timing": [
-      "REV/REV_015_SEVWYIN1DA_timing.json"
+      ".json"
     ]
   }
 }

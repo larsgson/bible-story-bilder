@@ -1,17 +1,17 @@
 {
   "audio": {
     "HUUTBLN1DA": [
-      "REV/REV_015_HUUTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HUUTBL": [
-      "REV/REV_015_HUUTBL.txt"
+      ".txt"
     ]
   },
   "timing": {
     "HUUTBLN1DA_timing": [
-      "REV/REV_015_HUUTBLN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,13 +1,13 @@
 {
   "audio": {
     "HUABSNN2DA": [
-      "REV/REV_015_HUABSNN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "HUABSNN2DA_timing": [
-      "REV/REV_015_HUABSNN2DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
   "audio": {
     "KRINVSN2DA": [
-      "REV/REV_015_KRINVSN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KRINVSN": [
-      "REV/REV_015_KRINVSN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KRINVSN2DA_timing": [
-      "REV/REV_015_KRINVSN2DA_timing.json"
+      ".json"
     ]
   }
 }

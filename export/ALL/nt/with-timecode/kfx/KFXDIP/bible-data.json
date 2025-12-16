@@ -1,17 +1,17 @@
 {
   "audio": {
     "KFXDIPN1DA": [
-      "REV/REV_015_KFXDIPN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KFXDIPN": [
-      "REV/REV_015_KFXDIPN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KFXDIPN1DA_timing": [
-      "REV/REV_015_KFXDIPN1DA_timing.json"
+      ".json"
     ]
   }
 }

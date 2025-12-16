@@ -1,17 +1,17 @@
 {
   "audio": {
     "NOTTBLN1DA": [
-      "REV/REV_015_NOTTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NOTTBL": [
-      "REV/REV_015_NOTTBL.txt"
+      ".txt"
     ]
   },
   "timing": {
     "NOTTBLN1DA_timing": [
-      "REV/REV_015_NOTTBLN1DA_timing.json"
+      ".json"
     ]
   }
 }

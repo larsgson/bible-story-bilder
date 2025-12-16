@@ -1,17 +1,17 @@
 {
   "audio": {
     "MTJTBLN1DA": [
-      "REV/REV_015_MTJTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MTJTBL": [
-      "REV/REV_015_MTJTBL.txt"
+      ".txt"
     ]
   },
   "timing": {
     "MTJTBLN1DA_timing": [
-      "REV/REV_015_MTJTBLN1DA_timing.json"
+      ".json"
     ]
   }
 }

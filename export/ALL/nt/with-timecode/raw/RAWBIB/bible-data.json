@@ -1,17 +1,17 @@
 {
   "audio": {
     "RAWRBCN1DA": [
-      "REV/REV_015_RAWRBCN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "RAWRBCN": [
-      "REV/REV_015_RAWRBCN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "RAWRBCN1DA_timing": [
-      "REV/REV_015_RAWRBCN1DA_timing.json"
+      ".json"
     ]
   }
 }

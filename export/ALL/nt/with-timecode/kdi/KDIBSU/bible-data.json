@@ -1,17 +1,17 @@
 {
   "audio": {
     "KDIBSUN2DA": [
-      "REV/REV_015_KDIBSUN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KDIBSUN": [
-      "REV/REV_015_KDIBSUN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KDIBSUN2DA_timing": [
-      "REV/REV_015_KDIBSUN2DA_timing.json"
+      ".json"
     ]
   }
 }

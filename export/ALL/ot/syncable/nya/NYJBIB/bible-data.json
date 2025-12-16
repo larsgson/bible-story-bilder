@@ -1,12 +1,12 @@
 {
   "audio": {
     "NYJBIBO1DA": [
-      "PSA/PSA_117_NYJBIBO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NYJBIBO": [
-      "PSA/PSA_117_NYJBIBO_ET.txt"
+      "_ET.txt"
     ],
     "NYJBIB": []
   },

@@ -1,17 +1,17 @@
 {
   "audio": {
     "LNSCABN1DA": [
-      "REV/REV_015_LNSCABN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LNSCABN": [
-      "REV/REV_015_LNSCABN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "LNSCABN1DA_timing": [
-      "REV/REV_015_LNSCABN1DA_timing.json"
+      ".json"
     ]
   }
 }

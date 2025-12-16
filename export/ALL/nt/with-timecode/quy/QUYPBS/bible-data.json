@@ -1,17 +1,17 @@
 {
   "audio": {
     "QUYPBSN1DA": [
-      "REV/REV_015_QUYPBSN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "QUYPBSN": [
-      "REV/REV_015_QUYPBSN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "QUYPBSN1DA_timing": [
-      "REV/REV_015_QUYPBSN1DA_timing.json"
+      ".json"
     ]
   }
 }

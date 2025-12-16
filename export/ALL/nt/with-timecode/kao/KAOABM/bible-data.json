@@ -1,17 +1,17 @@
 {
   "audio": {
     "KAOABMN2DA": [
-      "REV/REV_015_KAOABMN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KAOABMN": [
-      "REV/REV_015_KAOABMN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KAOABMN2DA_timing": [
-      "REV/REV_015_KAOABMN2DA_timing.json"
+      ".json"
     ]
   }
 }

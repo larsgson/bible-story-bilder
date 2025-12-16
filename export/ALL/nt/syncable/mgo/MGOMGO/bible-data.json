@@ -1,12 +1,12 @@
 {
   "audio": {
     "MGOWYIN1DA": [
-      "REV/REV_015_MGOWYIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MGOWYI": [
-      "REV/REV_015_MGOWYI.txt"
+      ".txt"
     ]
   },
   "timing": {}

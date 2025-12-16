@@ -1,17 +1,17 @@
 {
   "audio": {
     "GJNGILN1DA": [
-      "REV/REV_015_GJNGILN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GJNGILN": [
-      "REV/REV_015_GJNGILN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GJNGILN1DA_timing": [
-      "REV/REV_015_GJNGILN1DA_timing.json"
+      ".json"
     ]
   }
 }

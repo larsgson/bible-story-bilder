@@ -1,13 +1,13 @@
 {
   "audio": {
     "KIUBSKN2DA": [
-      "REV/REV_015_KIUBSKN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "KIUBSKN2DA_timing": [
-      "REV/REV_015_KIUBSKN2DA_timing.json"
+      ".json"
     ]
   }
 }

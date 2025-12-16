@@ -1,17 +1,17 @@
 {
   "audio": {
     "MGDBSSN1DA": [
-      "REV/REV_015_MGDBSSN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MGDBSSN": [
-      "REV/REV_015_MGDBSSN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MGDBSSN1DA_timing": [
-      "REV/REV_015_MGDBSSN1DA_timing.json"
+      ".json"
     ]
   }
 }

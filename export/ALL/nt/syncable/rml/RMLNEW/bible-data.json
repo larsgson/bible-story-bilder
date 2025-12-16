@@ -1,12 +1,12 @@
 {
   "audio": {
     "RMLNVSN2DA": [
-      "REV/REV_015_RMLNVSN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "RMLNVSN": [
-      "REV/REV_015_RMLNVSN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

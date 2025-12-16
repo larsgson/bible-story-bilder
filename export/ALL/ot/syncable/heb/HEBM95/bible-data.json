@@ -1,12 +1,12 @@
 {
   "audio": {
     "HBRHMTO2DA": [
-      "PSA/PSA_117_HBRHMTO2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HBRHMTO": [
-      "PSA/PSA_117_HBRHMTO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

@@ -1,12 +1,12 @@
 {
   "audio": {
     "CHEIBTO1DA": [
-      "PSA/PSA_117_CHEIBTO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CHEIBTO": [
-      "PSA/PSA_117_CHEIBTO_ET.txt"
+      "_ET.txt"
     ],
     "CHEIBT": []
   },

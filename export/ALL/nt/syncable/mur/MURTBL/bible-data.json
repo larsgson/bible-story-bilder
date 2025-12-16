@@ -1,12 +1,12 @@
 {
   "audio": {
     "MURTBLN2DA": [
-      "REV/REV_015_MURTBLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MURTBL": [
-      "REV/REV_015_MURTBL.txt"
+      ".txt"
     ]
   },
   "timing": {}

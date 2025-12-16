@@ -1,17 +1,17 @@
 {
   "audio": {
     "SHIRBDN1DA": [
-      "REV/REV_015_SHIRBDN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SHIRBD": [
-      "REV/REV_015_SHIRBD.txt"
+      ".txt"
     ]
   },
   "timing": {
     "SHIRBDN1DA_timing": [
-      "REV/REV_015_SHIRBDN1DA_timing.json"
+      ".json"
     ]
   }
 }

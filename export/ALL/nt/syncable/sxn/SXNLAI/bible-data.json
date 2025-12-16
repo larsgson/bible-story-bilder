@@ -1,12 +1,12 @@
 {
   "audio": {
     "SXNLAIN2DA": [
-      "REV/REV_015_SXNLAIN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SXNLAI": [
-      "REV/REV_015_SXNLAI.txt"
+      ".txt"
     ]
   },
   "timing": {}

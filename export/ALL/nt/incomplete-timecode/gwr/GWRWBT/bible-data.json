@@ -1,7 +1,7 @@
 {
   "audio": {
     "GWRWBTN1DA": [
-      "REV/REV_015_GWRWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "GWRWBTN1DA_timing": [
-      "REV/REV_015_GWRWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

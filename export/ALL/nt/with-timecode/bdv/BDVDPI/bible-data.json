@@ -1,17 +1,17 @@
 {
   "audio": {
     "BDVDPIN1DA": [
-      "REV/REV_015_BDVDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BDVDPIN": [
-      "REV/REV_015_BDVDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "BDVDPIN1DA_timing": [
-      "REV/REV_015_BDVDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

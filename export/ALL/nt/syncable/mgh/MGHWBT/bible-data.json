@@ -1,12 +1,12 @@
 {
   "audio": {
     "MGHWBTN1DA": [
-      "REV/REV_015_MGHWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MGHWBTN": [
-      "REV/REV_015_MGHWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

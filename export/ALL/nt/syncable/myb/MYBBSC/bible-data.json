@@ -1,12 +1,12 @@
 {
   "audio": {
     "MYBABTN2DA": [
-      "REV/REV_015_MYBABTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MYBABT": [
-      "REV/REV_015_MYBABT.txt"
+      ".txt"
     ]
   },
   "timing": {}

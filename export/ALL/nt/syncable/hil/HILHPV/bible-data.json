@@ -1,12 +1,12 @@
 {
   "audio": {
     "HILHPVN2DA": [
-      "REV/REV_015_HILHPVN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HILHPV": [
-      "REV/REV_015_HILHPV.txt"
+      ".txt"
     ]
   },
   "timing": {}

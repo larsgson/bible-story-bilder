@@ -1,12 +1,12 @@
 {
   "audio": {
     "SASLAIN2DA": [
-      "REV/REV_015_SASLAIN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SASLAI": [
-      "REV/REV_015_SASLAI.txt"
+      ".txt"
     ]
   },
   "timing": {}

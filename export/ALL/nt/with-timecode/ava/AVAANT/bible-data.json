@@ -1,17 +1,17 @@
 {
   "audio": {
     "AVAIBTN1DA": [
-      "REV/REV_015_AVAIBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "AVAIBTN": [
-      "REV/REV_015_AVAIBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "AVAIBTN1DA_timing": [
-      "REV/REV_015_AVAIBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "audio": {
     "LLGUBBN1DA": [
-      "REV/REV_015_LLGUBBN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LLGUBBN": [
-      "REV/REV_015_LLGUBBN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

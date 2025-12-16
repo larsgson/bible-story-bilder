@@ -1,7 +1,7 @@
 {
   "audio": {
     "CASNTMN1DA": [
-      "REV/REV_015_CASNTMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "CASNTMN1DA_timing": [
-      "REV/REV_015_CASNTMN1DA_timing.json"
+      ".json"
     ]
   }
 }

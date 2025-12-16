@@ -1,17 +1,17 @@
 {
   "audio": {
     "JMDYPMN1DA": [
-      "REV/REV_015_JMDYPMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "JMDYPMN": [
-      "REV/REV_015_JMDYPMN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "JMDYPMN1DA_timing": [
-      "REV/REV_015_JMDYPMN1DA_timing.json"
+      ".json"
     ]
   }
 }

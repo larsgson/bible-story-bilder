@@ -1,12 +1,12 @@
 {
   "audio": {
     "SOMTVIN2DA": [
-      "REV/REV_015_SOMTVIN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SOMTVIN": [
-      "REV/REV_015_SOMTVIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

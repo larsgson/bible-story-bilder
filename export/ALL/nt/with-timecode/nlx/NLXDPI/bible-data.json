@@ -1,17 +1,17 @@
 {
   "audio": {
     "NLXDPIN1DA": [
-      "REV/REV_015_NLXDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NLXDPIN": [
-      "REV/REV_015_NLXDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "NLXDPIN1DA_timing": [
-      "REV/REV_015_NLXDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
   "audio": {
     "TELGMIN1DA": [
-      "REV/REV_015_TELGMIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TELGMI": [
-      "REV/REV_015_TELGMI.txt"
+      ".txt"
     ]
   },
   "timing": {
     "TELGMIN1DA_timing": [
-      "REV/REV_015_TELGMIN1DA_timing.json"
+      ".json"
     ]
   }
 }

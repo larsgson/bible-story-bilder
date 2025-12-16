@@ -1,17 +1,17 @@
 {
   "audio": {
     "CULWBTN1DA": [
-      "REV/REV_015_CULWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CULWBTN": [
-      "REV/REV_015_CULWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "CULWBTN1DA_timing": [
-      "REV/REV_015_CULWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

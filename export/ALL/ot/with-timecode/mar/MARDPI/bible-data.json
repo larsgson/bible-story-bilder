@@ -1,17 +1,17 @@
 {
   "audio": {
     "MARDPIO1DA": [
-      "PSA/PSA_117_MARDPIO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MARDPIO": [
-      "PSA/PSA_117_MARDPIO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MARDPIO1DA_timing": [
-      "PSA/PSA_117_MARDPIO1DA_timing.json"
+      ".json"
     ]
   }
 }

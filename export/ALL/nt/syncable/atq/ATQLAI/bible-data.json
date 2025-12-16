@@ -1,12 +1,12 @@
 {
   "audio": {
     "ATQLAIN1DA": [
-      "REV/REV_015_ATQLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ATQLAI": [
-      "REV/REV_015_ATQLAI.txt"
+      ".txt"
     ]
   },
   "timing": {}

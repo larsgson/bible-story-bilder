@@ -1,17 +1,17 @@
 {
   "audio": {
     "GUKBSEN1DA": [
-      "REV/REV_015_GUKBSEN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GUKBSEN": [
-      "REV/REV_015_GUKBSEN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GUKBSEN1DA_timing": [
-      "REV/REV_015_GUKBSEN1DA_timing.json"
+      ".json"
     ]
   }
 }

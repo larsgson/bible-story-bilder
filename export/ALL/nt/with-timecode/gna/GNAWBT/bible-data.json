@@ -1,17 +1,17 @@
 {
   "audio": {
     "GNAWBTN1DA": [
-      "REV/REV_015_GNAWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GNAWBTN": [
-      "REV/REV_015_GNAWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GNAWBTN1DA_timing": [
-      "REV/REV_015_GNAWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

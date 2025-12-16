@@ -1,17 +1,17 @@
 {
   "audio": {
     "NTKWYIN1DA": [
-      "REV/REV_015_NTKWYIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NTKWYIN": [
-      "REV/REV_015_NTKWYIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "NTKWYIN1DA_timing": [
-      "REV/REV_015_NTKWYIN1DA_timing.json"
+      ".json"
     ]
   }
 }

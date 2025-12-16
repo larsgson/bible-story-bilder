@@ -1,17 +1,17 @@
 {
   "audio": {
     "EKGLAIN1DA": [
-      "REV/REV_015_EKGLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "EKGLAIN": [
-      "REV/REV_015_EKGLAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "EKGLAIN1DA_timing": [
-      "REV/REV_015_EKGLAIN1DA_timing.json"
+      ".json"
     ]
   }
 }

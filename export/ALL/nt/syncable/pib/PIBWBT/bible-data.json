@@ -1,12 +1,12 @@
 {
   "audio": {
     "PIBWBTN1DA": [
-      "REV/REV_015_PIBWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PIBWBT": [
-      "REV/REV_015_PIBWBT.txt"
+      ".txt"
     ]
   },
   "timing": {}

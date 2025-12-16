@@ -1,17 +1,17 @@
 {
   "audio": {
     "PAPTBLN1DA": [
-      "REV/REV_015_PAPTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PAPTBLN": [
-      "REV/REV_015_PAPTBLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "PAPTBLN1DA_timing": [
-      "REV/REV_015_PAPTBLN1DA_timing.json"
+      ".json"
     ]
   }
 }

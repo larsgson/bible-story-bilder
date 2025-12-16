@@ -1,17 +1,17 @@
 {
   "audio": {
     "ACNBSMN1DA": [
-      "REV/REV_015_ACNBSMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ACNBSM": [
-      "REV/REV_015_ACNBSM.txt"
+      ".txt"
     ]
   },
   "timing": {
     "ACNBSMN1DA_timing": [
-      "REV/REV_015_ACNBSMN1DA_timing.json"
+      ".json"
     ]
   }
 }

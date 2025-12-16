@@ -1,12 +1,12 @@
 {
   "audio": {
     "KYUBSMN2DA": [
-      "REV/REV_015_KYUBSMN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KYUBSMN": [
-      "REV/REV_015_KYUBSMN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

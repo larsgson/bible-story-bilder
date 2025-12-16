@@ -1,12 +1,12 @@
 {
   "audio": {
     "FRNTLSO2DA": [
-      "PSA/PSA_117_FRNTLSO2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "FRNTLS": [
-      "PSA/PSA_117_FRNTLS.txt"
+      ".txt"
     ]
   },
   "timing": {}

@@ -1,12 +1,12 @@
 {
   "audio": {
     "ZLMAVBO1DA": [
-      "PSA/PSA_117_ZLMAVBO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ZLMAVBO": [
-      "PSA/PSA_117_ZLMAVBO_ET.txt"
+      "_ET.txt"
     ],
     "ZLMAVB": []
   },

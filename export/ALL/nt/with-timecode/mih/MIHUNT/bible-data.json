@@ -1,17 +1,17 @@
 {
   "audio": {
     "MIHUNTN1DA": [
-      "REV/REV_015_MIHUNTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MIHUNT": [
-      "REV/REV_015_MIHUNT.txt"
+      ".txt"
     ]
   },
   "timing": {
     "MIHUNTN1DA_timing": [
-      "REV/REV_015_MIHUNTN1DA_timing.json"
+      ".json"
     ]
   }
 }

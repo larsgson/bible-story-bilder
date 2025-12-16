@@ -1,12 +1,12 @@
 {
   "audio": {
     "BWUTBLN2DA": [
-      "REV/REV_015_BWUTBLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BWUTBLN": [
-      "REV/REV_015_BWUTBLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

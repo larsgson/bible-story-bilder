@@ -1,17 +1,17 @@
 {
   "audio": {
     "LNLACAN1DA": [
-      "REV/REV_015_LNLACAN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LNLACAN": [
-      "REV/REV_015_LNLACAN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "LNLACAN1DA_timing": [
-      "REV/REV_015_LNLACAN1DA_timing.json"
+      ".json"
     ]
   }
 }

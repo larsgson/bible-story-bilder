@@ -1,7 +1,7 @@
 {
   "audio": {
     "LIDWBTN1DA": [
-      "REV/REV_015_LIDWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "LIDWBTN1DA_timing": [
-      "REV/REV_015_LIDWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

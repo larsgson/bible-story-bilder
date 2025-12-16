@@ -1,17 +1,17 @@
 {
   "audio": {
     "YAOPBTN1DA": [
-      "REV/REV_015_YAOPBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "YAOPBT": [
-      "REV/REV_015_YAOPBT.txt"
+      ".txt"
     ]
   },
   "timing": {
     "YAOPBTN1DA_timing": [
-      "REV/REV_015_YAOPBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

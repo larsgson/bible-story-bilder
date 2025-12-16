@@ -1,12 +1,12 @@
 {
   "audio": {
     "DOMBECN2DA": [
-      "REV/REV_015_DOMBECN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "DOMBECN": [
-      "REV/REV_015_DOMBECN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

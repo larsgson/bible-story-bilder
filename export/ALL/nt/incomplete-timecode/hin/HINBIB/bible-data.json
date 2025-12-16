@@ -1,7 +1,7 @@
 {
   "audio": {
     "HINBIBN1DA": [
-      "REV/REV_015_HINBIBN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "HINBIBN1DA_timing": [
-      "REV/REV_015_HINBIBN1DA_timing.json"
+      ".json"
     ]
   }
 }

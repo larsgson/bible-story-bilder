@@ -1,17 +1,17 @@
 {
   "audio": {
     "HNDWTCN2DA": [
-      "REV/REV_015_HNDWTCN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HNDWTC": [
-      "REV/REV_015_HNDWTC.txt"
+      ".txt"
     ]
   },
   "timing": {
     "HNDWTCN2DA_timing": [
-      "REV/REV_015_HNDWTCN2DA_timing.json"
+      ".json"
     ]
   }
 }

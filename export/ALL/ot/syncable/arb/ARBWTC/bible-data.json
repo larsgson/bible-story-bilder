@@ -1,12 +1,12 @@
 {
   "audio": {
     "ARBWTCO1DA": [
-      "PSA/PSA_117_ARBWTCO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ARBWTCO": [
-      "PSA/PSA_117_ARBWTCO_ET.txt"
+      "_ET.txt"
     ],
     "ARBWTC": []
   },

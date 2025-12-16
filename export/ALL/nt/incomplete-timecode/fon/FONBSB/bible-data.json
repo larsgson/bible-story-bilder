@@ -1,13 +1,13 @@
 {
   "audio": {
     "FONBSBN1DA": [
-      "REV/REV_015_FONBSBN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "FONBSBN1DA_timing": [
-      "REV/REV_015_FONBSBN1DA_timing.json"
+      ".json"
     ]
   }
 }

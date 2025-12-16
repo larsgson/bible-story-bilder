@@ -1,12 +1,12 @@
 {
   "audio": {
     "ARBBIBO1DA": [
-      "PSA/PSA_117_ARBBIBO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ARBBIB": [
-      "PSA/PSA_117_ARBBIB.txt"
+      ".txt"
     ]
   },
   "timing": {}

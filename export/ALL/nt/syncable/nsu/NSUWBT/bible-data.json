@@ -1,12 +1,12 @@
 {
   "audio": {
     "NSUWBTN1DA": [
-      "REV/REV_015_NSUWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NSUWBTN": [
-      "REV/REV_015_NSUWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

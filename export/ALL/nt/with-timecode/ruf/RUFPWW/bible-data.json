@@ -1,17 +1,17 @@
 {
   "audio": {
     "RUFPBTN1DA": [
-      "REV/REV_015_RUFPBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "RUFPBTN": [
-      "REV/REV_015_RUFPBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "RUFPBTN1DA_timing": [
-      "REV/REV_015_RUFPBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

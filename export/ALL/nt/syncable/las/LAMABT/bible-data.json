@@ -1,12 +1,12 @@
 {
   "audio": {
     "LASABTN2DA": [
-      "REV/REV_015_LASABTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LASABTN": [
-      "REV/REV_015_LASABTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

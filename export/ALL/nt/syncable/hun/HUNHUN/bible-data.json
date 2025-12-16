@@ -1,12 +1,12 @@
 {
   "audio": {
     "HUNRNTN1DA": [
-      "REV/REV_015_HUNRNTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HUNRNT": [
-      "REV/REV_015_HUNRNT.txt"
+      ".txt"
     ]
   },
   "timing": {}

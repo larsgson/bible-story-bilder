@@ -1,12 +1,12 @@
 {
   "audio": {
     "DIDWBTN1DA": [
-      "REV/REV_015_DIDWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "DIDWBT": [
-      "REV/REV_015_DIDWBT.txt"
+      ".txt"
     ]
   },
   "timing": {}

@@ -1,17 +1,17 @@
 {
   "audio": {
     "XOGBSUN1DA": [
-      "REV/REV_015_XOGBSUN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "XOGBSU": [
-      "REV/REV_015_XOGBSU.txt"
+      ".txt"
     ]
   },
   "timing": {
     "XOGBSUN1DA_timing": [
-      "REV/REV_015_XOGBSUN1DA_timing.json"
+      ".json"
     ]
   }
 }

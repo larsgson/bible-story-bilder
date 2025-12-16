@@ -1,12 +1,12 @@
 {
   "audio": {
     "INDASVO2DA": [
-      "PSA/PSA_117_INDASVO2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "INDASV": [
-      "PSA/PSA_117_INDASV.txt"
+      ".txt"
     ]
   },
   "timing": {}

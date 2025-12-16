@@ -1,12 +1,12 @@
 {
   "audio": {
     "MBTSUMO1DA": [
-      "PSA/PSA_117_MBTSUMO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MBTSUMO": [
-      "PSA/PSA_117_MBTSUMO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

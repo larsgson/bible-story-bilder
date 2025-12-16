@@ -1,17 +1,17 @@
 {
   "audio": {
     "HBRHMTN1DA": [
-      "REV/REV_015_HBRHMTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HBRHMTN": [
-      "REV/REV_015_HBRHMTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "HBRHMTN1DA_timing": [
-      "REV/REV_015_HBRHMTN1DA_timing.json"
+      ".json"
     ]
   }
 }

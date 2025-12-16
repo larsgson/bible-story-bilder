@@ -1,17 +1,17 @@
 {
   "audio": {
     "KNBTAPN1DA": [
-      "REV/REV_015_KNBTAPN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KNBTAPN": [
-      "REV/REV_015_KNBTAPN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KNBTAPN1DA_timing": [
-      "REV/REV_015_KNBTAPN1DA_timing.json"
+      ".json"
     ]
   }
 }

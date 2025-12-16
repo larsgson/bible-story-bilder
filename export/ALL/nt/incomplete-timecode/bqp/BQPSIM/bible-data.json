@@ -1,7 +1,7 @@
 {
   "audio": {
     "BQPSIMN1DA": [
-      "REV/REV_015_BQPSIMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "BQPSIMN1DA_timing": [
-      "REV/REV_015_BQPSIMN1DA_timing.json"
+      ".json"
     ]
   }
 }

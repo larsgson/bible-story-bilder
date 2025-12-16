@@ -1,17 +1,17 @@
 {
   "audio": {
     "PILSIMN1DA": [
-      "REV/REV_015_PILSIMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PILSIMN": [
-      "REV/REV_015_PILSIMN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "PILSIMN1DA_timing": [
-      "REV/REV_015_PILSIMN1DA_timing.json"
+      ".json"
     ]
   }
 }

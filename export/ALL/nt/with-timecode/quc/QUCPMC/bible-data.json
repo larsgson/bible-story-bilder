@@ -1,17 +1,17 @@
 {
   "audio": {
     "QUJPMCN2DA": [
-      "REV/REV_015_QUJPMCN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "QUJPMCN": [
-      "REV/REV_015_QUJPMCN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "QUJPMCN2DA_timing": [
-      "REV/REV_015_QUJPMCN2DA_timing.json"
+      ".json"
     ]
   }
 }

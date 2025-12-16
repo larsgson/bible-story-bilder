@@ -1,17 +1,17 @@
 {
   "audio": {
     "NYUWYIN1DA": [
-      "REV/REV_015_NYUWYIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NYUWYIN": [
-      "REV/REV_015_NYUWYIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "NYUWYIN1DA_timing": [
-      "REV/REV_015_NYUWYIN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
   "audio": {
     "LCPTBSN1DA": [
-      "REV/REV_015_LCPTBSN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LCPTBS": [
-      "REV/REV_015_LCPTBS.txt"
+      ".txt"
     ]
   },
   "timing": {
     "LCPTBSN1DA_timing": [
-      "REV/REV_015_LCPTBSN1DA_timing.json"
+      ".json"
     ]
   }
 }

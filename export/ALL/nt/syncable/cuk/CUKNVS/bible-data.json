@@ -1,12 +1,12 @@
 {
   "audio": {
     "CUKNVSN2DA": [
-      "REV/REV_015_CUKNVSN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CUKNVSN": [
-      "REV/REV_015_CUKNVSN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

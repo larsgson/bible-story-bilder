@@ -1,17 +1,17 @@
 {
   "audio": {
     "AYOETSN1DA": [
-      "REV/REV_015_AYOETSN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "AYOETS": [
-      "REV/REV_015_AYOETS.txt"
+      ".txt"
     ]
   },
   "timing": {
     "AYOETSN1DA_timing": [
-      "REV/REV_015_AYOETSN1DA_timing.json"
+      ".json"
     ]
   }
 }

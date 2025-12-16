@@ -1,17 +1,17 @@
 {
   "audio": {
     "RIFNVLN1DA": [
-      "REV/REV_015_RIFNVLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "RIFNVLN": [
-      "REV/REV_015_RIFNVLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "RIFNVLN1DA_timing": [
-      "REV/REV_015_RIFNVLN1DA_timing.json"
+      ".json"
     ]
   }
 }

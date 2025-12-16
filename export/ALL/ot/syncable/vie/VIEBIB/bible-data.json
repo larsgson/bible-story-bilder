@@ -1,12 +1,12 @@
 {
   "audio": {
     "VIEBIBO1DA": [
-      "PSA/PSA_117_VIEBIBO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "VIEBIBO": [
-      "PSA/PSA_117_VIEBIBO_ET.txt"
+      "_ET.txt"
     ],
     "VIEBIB": []
   },

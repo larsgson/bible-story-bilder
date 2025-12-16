@@ -1,12 +1,12 @@
 {
   "audio": {
     "ARBAS1N2DA": [
-      "REV/REV_015_ARBAS1N2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ARBAS1": [
-      "REV/REV_015_ARBAS1.txt"
+      ".txt"
     ]
   },
   "timing": {}

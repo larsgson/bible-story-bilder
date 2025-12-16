@@ -1,17 +1,17 @@
 {
   "audio": {
     "TAMWCON1DA": [
-      "REV/REV_015_TAMWCON1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TAMWCO": [
-      "REV/REV_015_TAMWCO.txt"
+      ".txt"
     ]
   },
   "timing": {
     "TAMWCON1DA_timing": [
-      "REV/REV_015_TAMWCON1DA_timing.json"
+      ".json"
     ]
   }
 }

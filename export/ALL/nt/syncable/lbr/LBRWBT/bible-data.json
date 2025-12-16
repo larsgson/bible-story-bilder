@@ -1,12 +1,12 @@
 {
   "audio": {
     "LBRWBTN1DA": [
-      "REV/REV_015_LBRWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LBRWBTN": [
-      "REV/REV_015_LBRWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

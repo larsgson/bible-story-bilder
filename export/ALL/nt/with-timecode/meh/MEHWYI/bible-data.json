@@ -1,17 +1,17 @@
 {
   "audio": {
     "MEHWYIN1DA": [
-      "REV/REV_015_MEHWYIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MEHWYIN": [
-      "REV/REV_015_MEHWYIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MEHWYIN1DA_timing": [
-      "REV/REV_015_MEHWYIN1DA_timing.json"
+      ".json"
     ]
   }
 }

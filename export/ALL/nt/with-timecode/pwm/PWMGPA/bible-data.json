@@ -1,17 +1,17 @@
 {
   "audio": {
     "PWMGPAN1DA": [
-      "REV/REV_015_PWMGPAN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PWMGPAN": [
-      "REV/REV_015_PWMGPAN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "PWMGPAN1DA_timing": [
-      "REV/REV_015_PWMGPAN1DA_timing.json"
+      ".json"
     ]
   }
 }

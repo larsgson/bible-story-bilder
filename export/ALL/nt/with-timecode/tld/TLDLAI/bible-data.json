@@ -1,17 +1,17 @@
 {
   "audio": {
     "TLDLAIN1DA": [
-      "REV/REV_015_TLDLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TLDLAIN": [
-      "REV/REV_015_TLDLAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "TLDLAIN1DA_timing": [
-      "REV/REV_015_TLDLAIN1DA_timing.json"
+      ".json"
     ]
   }
 }

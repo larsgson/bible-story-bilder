@@ -1,17 +1,17 @@
 {
   "audio": {
     "GUJDPIN1DA": [
-      "REV/REV_015_GUJDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GUJDPIN": [
-      "REV/REV_015_GUJDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GUJDPIN1DA_timing": [
-      "REV/REV_015_GUJDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

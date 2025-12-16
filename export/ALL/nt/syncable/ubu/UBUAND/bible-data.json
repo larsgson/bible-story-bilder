@@ -1,12 +1,12 @@
 {
   "audio": {
     "UBUANDN1DA": [
-      "REV/REV_015_UBUANDN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "UBUAND": [
-      "REV/REV_015_UBUAND.txt"
+      ".txt"
     ]
   },
   "timing": {}

@@ -1,17 +1,17 @@
 {
   "audio": {
     "OLDBSTN2DA": [
-      "REV/REV_015_OLDBSTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "OLDBSTN": [
-      "REV/REV_015_OLDBSTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "OLDBSTN2DA_timing": [
-      "REV/REV_015_OLDBSTN2DA_timing.json"
+      ".json"
     ]
   }
 }

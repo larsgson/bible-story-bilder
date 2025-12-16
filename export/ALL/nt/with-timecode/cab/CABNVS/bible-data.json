@@ -1,17 +1,17 @@
 {
   "audio": {
     "CABNVSN2DA": [
-      "REV/REV_015_CABNVSN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CABNVS": [
-      "REV/REV_015_CABNVS.txt"
+      ".txt"
     ]
   },
   "timing": {
     "CABNVSN2DA_timing": [
-      "REV/REV_015_CABNVSN2DA_timing.json"
+      ".json"
     ]
   }
 }

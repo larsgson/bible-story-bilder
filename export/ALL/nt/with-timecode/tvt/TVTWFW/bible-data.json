@@ -1,17 +1,17 @@
 {
   "audio": {
     "TVTWFWN1DA": [
-      "REV/REV_015_TVTWFWN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TVTWFWN": [
-      "REV/REV_015_TVTWFWN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "TVTWFWN1DA_timing": [
-      "REV/REV_015_TVTWFWN1DA_timing.json"
+      ".json"
     ]
   }
 }

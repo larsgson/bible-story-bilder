@@ -1,12 +1,12 @@
 {
   "audio": {
     "RJSMTSN1DA": [
-      "REV/REV_015_RJSMTSN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "RJSMTS": [
-      "REV/REV_015_RJSMTS.txt"
+      ".txt"
     ]
   },
   "timing": {}

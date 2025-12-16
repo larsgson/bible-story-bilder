@@ -1,17 +1,17 @@
 {
   "audio": {
     "UZNMKVN1DA": [
-      "REV/REV_015_UZNMKVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "UZNMKVN": [
-      "REV/REV_015_UZNMKVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "UZNMKVN1DA_timing": [
-      "REV/REV_015_UZNMKVN1DA_timing.json"
+      ".json"
     ]
   }
 }

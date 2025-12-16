@@ -1,12 +1,12 @@
 {
   "audio": {
     "SUNTSVN1DA": [
-      "REV/REV_015_SUNTSVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SUNTSVN": [
-      "REV/REV_015_SUNTSVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

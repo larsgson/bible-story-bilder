@@ -1,17 +1,17 @@
 {
   "audio": {
     "AMETBLN1DA": [
-      "REV/REV_015_AMETBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "AMETBLN": [
-      "REV/REV_015_AMETBLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "AMETBLN1DA_timing": [
-      "REV/REV_015_AMETBLN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,13 +1,13 @@
 {
   "audio": {
     "IUMMC1N2DA": [
-      "REV/REV_015_IUMMC1N2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "IUMMC1N2DA_timing": [
-      "REV/REV_015_IUMMC1N2DA_timing.json"
+      ".json"
     ]
   }
 }

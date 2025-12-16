@@ -1,12 +1,12 @@
 {
   "audio": {
     "BOATBLN2DA": [
-      "REV/REV_015_BOATBLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BOATBLN": [
-      "REV/REV_015_BOATBLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

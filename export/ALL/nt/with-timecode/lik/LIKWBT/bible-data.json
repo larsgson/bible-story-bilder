@@ -1,17 +1,17 @@
 {
   "audio": {
     "LIKWBTN1DA": [
-      "REV/REV_015_LIKWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "LIKWBTN": [
-      "REV/REV_015_LIKWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "LIKWBTN1DA_timing": [
-      "REV/REV_015_LIKWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

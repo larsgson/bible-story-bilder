@@ -1,17 +1,17 @@
 {
   "audio": {
     "BEPLAIN1DA": [
-      "REV/REV_015_BEPLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BEPLAIN": [
-      "REV/REV_015_BEPLAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "BEPLAIN1DA_timing": [
-      "REV/REV_015_BEPLAIN1DA_timing.json"
+      ".json"
     ]
   }
 }

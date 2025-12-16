@@ -1,12 +1,12 @@
 {
   "audio": {
     "XSMWBTN2DA": [
-      "REV/REV_015_XSMWBTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "XSMWBTN": [
-      "REV/REV_015_XSMWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

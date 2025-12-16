@@ -1,17 +1,17 @@
 {
   "audio": {
     "BFZTLFN1DA": [
-      "REV/REV_015_BFZTLFN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BFZTLFN": [
-      "REV/REV_015_BFZTLFN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "BFZTLFN1DA_timing": [
-      "REV/REV_015_BFZTLFN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "audio": {
     "CAAWBTN2DA": [
-      "REV/REV_015_CAAWBTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CAAWBTN": [
-      "REV/REV_015_CAAWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

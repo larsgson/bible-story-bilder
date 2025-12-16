@@ -1,17 +1,17 @@
 {
   "audio": {
     "PORBSPN2DA": [
-      "REV/REV_015_PORBSPN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PORBSPN": [
-      "REV/REV_015_PORBSPN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "PORBSPN2DA_timing": [
-      "REV/REV_015_PORBSPN2DA_timing.json"
+      ".json"
     ]
   }
 }

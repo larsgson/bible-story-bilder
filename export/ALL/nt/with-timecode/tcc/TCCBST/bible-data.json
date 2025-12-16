@@ -1,17 +1,17 @@
 {
   "audio": {
     "TCCBSTN1DA": [
-      "REV/REV_015_TCCBSTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TCCBSTN": [
-      "REV/REV_015_TCCBSTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "TCCBSTN1DA_timing": [
-      "REV/REV_015_TCCBSTN1DA_timing.json"
+      ".json"
     ]
   }
 }

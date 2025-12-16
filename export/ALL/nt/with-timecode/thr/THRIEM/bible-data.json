@@ -1,17 +1,17 @@
 {
   "audio": {
     "THRIEMN1DA": [
-      "REV/REV_015_THRIEMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "THRIEMN": [
-      "REV/REV_015_THRIEMN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "THRIEMN1DA_timing": [
-      "REV/REV_015_THRIEMN1DA_timing.json"
+      ".json"
     ]
   }
 }

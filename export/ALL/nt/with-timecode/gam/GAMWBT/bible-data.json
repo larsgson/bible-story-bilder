@@ -1,17 +1,17 @@
 {
   "audio": {
     "GAMWBTN1DA": [
-      "REV/REV_015_GAMWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GAMWBTN": [
-      "REV/REV_015_GAMWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GAMWBTN1DA_timing": [
-      "REV/REV_015_GAMWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

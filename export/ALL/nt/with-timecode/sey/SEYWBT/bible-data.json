@@ -1,17 +1,17 @@
 {
   "audio": {
     "SEYWBTN1DA": [
-      "REV/REV_015_SEYWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SEYWBT": [
-      "REV/REV_015_SEYWBT.txt"
+      ".txt"
     ]
   },
   "timing": {
     "SEYWBTN1DA_timing": [
-      "REV/REV_015_SEYWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

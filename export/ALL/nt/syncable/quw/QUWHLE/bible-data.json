@@ -1,12 +1,12 @@
 {
   "audio": {
     "QUWHLEN2DA": [
-      "REV/REV_015_QUWHLEN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "QUWHLE": [
-      "REV/REV_015_QUWHLE.txt"
+      ".txt"
     ]
   },
   "timing": {}

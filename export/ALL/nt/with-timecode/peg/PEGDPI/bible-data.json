@@ -1,17 +1,17 @@
 {
   "audio": {
     "PEGDPIN1DA": [
-      "REV/REV_015_PEGDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PEGDPIN": [
-      "REV/REV_015_PEGDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "PEGDPIN1DA_timing": [
-      "REV/REV_015_PEGDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

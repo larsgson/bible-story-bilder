@@ -1,17 +1,17 @@
 {
   "audio": {
     "CDHDPIN1DA": [
-      "REV/REV_015_CDHDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CDHDPIN": [
-      "REV/REV_015_CDHDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "CDHDPIN1DA_timing": [
-      "REV/REV_015_CDHDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

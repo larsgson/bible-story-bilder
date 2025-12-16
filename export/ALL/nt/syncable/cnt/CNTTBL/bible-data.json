@@ -1,12 +1,12 @@
 {
   "audio": {
     "CNTTBLN2DA": [
-      "REV/REV_015_CNTTBLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CNTTBLN": [
-      "REV/REV_015_CNTTBLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

@@ -1,17 +1,17 @@
 {
   "audio": {
     "APFCMUN1DA": [
-      "REV/REV_015_APFCMUN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "APFCMUN": [
-      "REV/REV_015_APFCMUN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "APFCMUN1DA_timing": [
-      "REV/REV_015_APFCMUN1DA_timing.json"
+      ".json"
     ]
   }
 }

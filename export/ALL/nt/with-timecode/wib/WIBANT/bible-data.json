@@ -1,17 +1,17 @@
 {
   "audio": {
     "WIBANTN1DA": [
-      "REV/REV_015_WIBANTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "WIBANTN": [
-      "REV/REV_015_WIBANTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "WIBANTN1DA_timing": [
-      "REV/REV_015_WIBANTN1DA_timing.json"
+      ".json"
     ]
   }
 }

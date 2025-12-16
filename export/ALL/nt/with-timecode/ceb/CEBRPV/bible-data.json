@@ -1,17 +1,17 @@
 {
   "audio": {
     "CEBRPVN1DA": [
-      "REV/REV_015_CEBRPVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CEBRPVN": [
-      "REV/REV_015_CEBRPVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "CEBRPVN1DA_timing": [
-      "REV/REV_015_CEBRPVN1DA_timing.json"
+      ".json"
     ]
   }
 }

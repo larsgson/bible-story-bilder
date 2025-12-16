@@ -1,7 +1,7 @@
 {
   "audio": {
     "THATSVN1DA": [
-      "REV/REV_015_THATSVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "THATSVN1DA_timing": [
-      "REV/REV_015_THATSVN1DA_timing.json"
+      ".json"
     ]
   }
 }

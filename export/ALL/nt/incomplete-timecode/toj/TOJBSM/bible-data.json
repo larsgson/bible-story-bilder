@@ -1,13 +1,13 @@
 {
   "audio": {
     "TOJBSMN1DA": [
-      "REV/REV_015_TOJBSMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "TOJBSMN1DA_timing": [
-      "REV/REV_015_TOJBSMN1DA_timing.json"
+      ".json"
     ]
   }
 }

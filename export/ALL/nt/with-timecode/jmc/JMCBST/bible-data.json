@@ -1,17 +1,17 @@
 {
   "audio": {
     "JMCBSTN2DA": [
-      "REV/REV_015_JMCBSTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "JMCBSTN": [
-      "REV/REV_015_JMCBSTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "JMCBSTN2DA_timing": [
-      "REV/REV_015_JMCBSTN2DA_timing.json"
+      ".json"
     ]
   }
 }

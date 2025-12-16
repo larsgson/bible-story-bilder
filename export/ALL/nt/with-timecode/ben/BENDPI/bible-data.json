@@ -1,17 +1,17 @@
 {
   "audio": {
     "BENDPIN1DA": [
-      "REV/REV_015_BENDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BENDPIN": [
-      "REV/REV_015_BENDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "BENDPIN1DA_timing": [
-      "REV/REV_015_BENDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "audio": {
     "NCHTBLO1DA": [
-      "PSA/PSA_117_NCHTBLO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NCHTBLO": [
-      "PSA/PSA_117_NCHTBLO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

@@ -1,12 +1,12 @@
 {
   "audio": {
     "DAHPNGN1DA": [
-      "REV/REV_015_DAHPNGN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "DAHPNG": [
-      "REV/REV_015_DAHPNG.txt"
+      ".txt"
     ]
   },
   "timing": {}

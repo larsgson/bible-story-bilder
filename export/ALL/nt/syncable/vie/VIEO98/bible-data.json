@@ -1,12 +1,12 @@
 {
   "audio": {
     "VIEVOVN1DA": [
-      "REV/REV_015_VIEVOVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "VIEVOV": [
-      "REV/REV_015_VIEVOV.txt"
+      ".txt"
     ]
   },
   "timing": {}

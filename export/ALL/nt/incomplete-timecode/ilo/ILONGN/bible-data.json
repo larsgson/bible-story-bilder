@@ -1,7 +1,7 @@
 {
   "audio": {
     "ILORPVN2DA": [
-      "REV/REV_015_ILORPVN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "ILORPVN2DA_timing": [
-      "REV/REV_015_ILORPVN2DA_timing.json"
+      ".json"
     ]
   }
 }

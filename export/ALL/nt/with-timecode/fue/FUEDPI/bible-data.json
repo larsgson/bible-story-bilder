@@ -1,17 +1,17 @@
 {
   "audio": {
     "FUEDPIN1DA": [
-      "REV/REV_015_FUEDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "FUEDPIN": [
-      "REV/REV_015_FUEDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "FUEDPIN1DA_timing": [
-      "REV/REV_015_FUEDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

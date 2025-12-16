@@ -1,17 +1,17 @@
 {
   "audio": {
     "KEYKBTN1DA": [
-      "REV/REV_015_KEYKBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KEYKBTN": [
-      "REV/REV_015_KEYKBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KEYKBTN1DA_timing": [
-      "REV/REV_015_KEYKBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

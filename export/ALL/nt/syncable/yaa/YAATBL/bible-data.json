@@ -1,12 +1,12 @@
 {
   "audio": {
     "YAATBLN2DA": [
-      "REV/REV_015_YAATBLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "YAATBLN": [
-      "REV/REV_015_YAATBLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

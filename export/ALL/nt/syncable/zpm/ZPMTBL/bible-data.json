@@ -1,12 +1,12 @@
 {
   "audio": {
     "ZPMTBLN1DA": [
-      "REV/REV_015_ZPMTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ZPMSIM": [
-      "REV/REV_015_ZPMSIM.txt"
+      ".txt"
     ]
   },
   "timing": {}

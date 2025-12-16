@@ -1,13 +1,13 @@
 {
   "audio": {
     "VIFBSCN1DA": [
-      "REV/REV_015_VIFBSCN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "VIFBSCN1DA_timing": [
-      "REV/REV_015_VIFBSCN1DA_timing.json"
+      ".json"
     ]
   }
 }

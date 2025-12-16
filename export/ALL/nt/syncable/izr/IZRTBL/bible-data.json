@@ -1,12 +1,12 @@
 {
   "audio": {
     "FIZTBLN2DA": [
-      "REV/REV_015_FIZTBLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "FIZTBL": [
-      "REV/REV_015_FIZTBL.txt"
+      ".txt"
     ]
   },
   "timing": {}

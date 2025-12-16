@@ -1,17 +1,17 @@
 {
   "audio": {
     "KYBTAPN1DA": [
-      "REV/REV_015_KYBTAPN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KYBTAPN": [
-      "REV/REV_015_KYBTAPN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KYBTAPN1DA_timing": [
-      "REV/REV_015_KYBTAPN1DA_timing.json"
+      ".json"
     ]
   }
 }

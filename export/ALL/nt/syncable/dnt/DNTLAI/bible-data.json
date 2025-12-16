@@ -1,12 +1,12 @@
 {
   "audio": {
     "DNTLAIN1DA": [
-      "REV/REV_015_DNTLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "DNTLAIN": [
-      "REV/REV_015_DNTLAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

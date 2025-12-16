@@ -1,12 +1,12 @@
 {
   "audio": {
     "TUJNTMN1DA": [
-      "REV/REV_015_TUJNTMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TUJNTMN": [
-      "REV/REV_015_TUJNTMN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

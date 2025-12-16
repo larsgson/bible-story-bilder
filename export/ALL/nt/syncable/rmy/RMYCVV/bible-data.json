@@ -1,12 +1,12 @@
 {
   "audio": {
     "RMYCVVN2DA": [
-      "REV/REV_015_RMYCVVN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "RMYCVV": [
-      "REV/REV_015_RMYCVV.txt"
+      ".txt"
     ]
   },
   "timing": {}

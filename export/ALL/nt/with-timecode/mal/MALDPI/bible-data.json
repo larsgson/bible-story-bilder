@@ -1,17 +1,17 @@
 {
   "audio": {
     "MALDPIN1DA": [
-      "REV/REV_015_MALDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MALDPIN": [
-      "REV/REV_015_MALDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MALDPIN1DA_timing": [
-      "REV/REV_015_MALDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

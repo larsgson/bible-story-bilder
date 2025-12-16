@@ -1,17 +1,17 @@
 {
   "audio": {
     "CHNUN1O1DA": [
-      "PSA/PSA_117_CHNUN1O1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CHNUN1": [
-      "PSA/PSA_117_CHNUN1.txt"
+      ".txt"
     ]
   },
   "timing": {
     "CHNUN1O1DA_timing": [
-      "PSA/PSA_117_CHNUN1O1DA_timing.json"
+      ".json"
     ]
   }
 }

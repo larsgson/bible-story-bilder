@@ -1,12 +1,12 @@
 {
   "audio": {
     "QVSTBLN2DA": [
-      "REV/REV_015_QVSTBLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "QVSTBLN": [
-      "REV/REV_015_QVSTBLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

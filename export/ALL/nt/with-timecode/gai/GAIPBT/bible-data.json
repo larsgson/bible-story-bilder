@@ -1,17 +1,17 @@
 {
   "audio": {
     "GAIPBTN1DA": [
-      "REV/REV_015_GAIPBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GAIPBTN": [
-      "REV/REV_015_GAIPBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GAIPBTN1DA_timing": [
-      "REV/REV_015_GAIPBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

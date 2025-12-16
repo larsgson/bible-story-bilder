@@ -1,17 +1,17 @@
 {
   "audio": {
     "SDALAIN1DA": [
-      "REV/REV_015_SDALAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SDALAIN": [
-      "REV/REV_015_SDALAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "SDALAIN1DA_timing": [
-      "REV/REV_015_SDALAIN1DA_timing.json"
+      ".json"
     ]
   }
 }

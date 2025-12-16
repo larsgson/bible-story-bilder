@@ -1,17 +1,17 @@
 {
   "audio": {
     "HINDPIO1DA": [
-      "PSA/PSA_117_HINDPIO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HINDPIO": [
-      "PSA/PSA_117_HINDPIO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "HINDPIO1DA_timing": [
-      "PSA/PSA_117_HINDPIO1DA_timing.json"
+      ".json"
     ]
   }
 }

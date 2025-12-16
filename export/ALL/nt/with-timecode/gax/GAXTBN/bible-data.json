@@ -1,17 +1,17 @@
 {
   "audio": {
     "GAXBSEN2DA": [
-      "REV/REV_015_GAXBSEN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GAXBSEN": [
-      "REV/REV_015_GAXBSEN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GAXBSEN2DA_timing": [
-      "REV/REV_015_GAXBSEN2DA_timing.json"
+      ".json"
     ]
   }
 }

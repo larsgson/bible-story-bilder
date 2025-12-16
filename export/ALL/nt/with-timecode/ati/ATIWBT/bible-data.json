@@ -1,17 +1,17 @@
 {
   "audio": {
     "ATIWBTN1DA": [
-      "REV/REV_015_ATIWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ATIWBTN": [
-      "REV/REV_015_ATIWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "ATIWBTN1DA_timing": [
-      "REV/REV_015_ATIWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

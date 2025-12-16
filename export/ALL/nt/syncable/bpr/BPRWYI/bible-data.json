@@ -1,12 +1,12 @@
 {
   "audio": {
     "BPRWYIN2DA": [
-      "REV/REV_015_BPRWYIN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BPRWYIN": [
-      "REV/REV_015_BPRWYIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

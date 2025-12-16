@@ -1,17 +1,17 @@
 {
   "audio": {
     "BUSSIMN1DA": [
-      "REV/REV_015_BUSSIMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BUSSIMN": [
-      "REV/REV_015_BUSSIMN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "BUSSIMN1DA_timing": [
-      "REV/REV_015_BUSSIMN1DA_timing.json"
+      ".json"
     ]
   }
 }

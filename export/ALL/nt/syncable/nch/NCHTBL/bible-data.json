@@ -1,12 +1,12 @@
 {
   "audio": {
     "NCHTBLN1DA": [
-      "REV/REV_015_NCHTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NCHTBL": [
-      "REV/REV_015_NCHTBL.txt"
+      ".txt"
     ]
   },
   "timing": {}

@@ -1,17 +1,17 @@
 {
   "audio": {
     "MIOWBTN2DA": [
-      "REV/REV_015_MIOWBTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MIOWBTN": [
-      "REV/REV_015_MIOWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MIOWBTN2DA_timing": [
-      "REV/REV_015_MIOWBTN2DA_timing.json"
+      ".json"
     ]
   }
 }

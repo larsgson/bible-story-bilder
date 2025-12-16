@@ -1,12 +1,12 @@
 {
   "audio": {
     "GRKEPTN1DA": [
-      "REV/REV_015_GRKEPTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GRKEPT": [
-      "REV/REV_015_GRKEPT.txt"
+      ".txt"
     ]
   },
   "timing": {}

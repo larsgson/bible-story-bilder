@@ -1,12 +1,12 @@
 {
   "audio": {
     "TATIBTN1DA": [
-      "REV/REV_015_TATIBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TATIBT": [
-      "REV/REV_015_TATIBT.txt"
+      ".txt"
     ]
   },
   "timing": {}

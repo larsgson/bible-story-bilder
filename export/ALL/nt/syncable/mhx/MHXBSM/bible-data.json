@@ -1,12 +1,12 @@
 {
   "audio": {
     "MHXBSMN1DA": [
-      "REV/REV_015_MHXBSMN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MHXBSM": [
-      "REV/REV_015_MHXBSM.txt"
+      ".txt"
     ]
   },
   "timing": {}

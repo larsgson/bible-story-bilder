@@ -1,17 +1,17 @@
 {
   "audio": {
     "MJLDPIN1DA": [
-      "REV/REV_015_MJLDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MJLDPIN": [
-      "REV/REV_015_MJLDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MJLDPIN1DA_timing": [
-      "REV/REV_015_MJLDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

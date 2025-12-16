@@ -1,17 +1,17 @@
 {
   "audio": {
     "KNKBSLN2DA": [
-      "REV/REV_015_KNKBSLN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KNKBSLN": [
-      "REV/REV_015_KNKBSLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KNKBSLN2DA_timing": [
-      "REV/REV_015_KNKBSLN2DA_timing.json"
+      ".json"
     ]
   }
 }

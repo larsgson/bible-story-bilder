@@ -1,12 +1,12 @@
 {
   "audio": {
     "TAMDIPO1DA": [
-      "PSA/PSA_117_TAMDIPO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TAMDIPO": [
-      "PSA/PSA_117_TAMDIPO_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

@@ -1,12 +1,12 @@
 {
   "audio": {
     "SWESFBN2DA": [
-      "REV/REV_015_SWESFBN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SWESFBN": [
-      "REV/REV_015_SWESFBN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

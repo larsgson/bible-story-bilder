@@ -1,12 +1,12 @@
 {
   "audio": {
     "MUPNLLN1DA": [
-      "REV/REV_015_MUPNLLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MUPNLL": [
-      "REV/REV_015_MUPNLL.txt"
+      ".txt"
     ]
   },
   "timing": {}

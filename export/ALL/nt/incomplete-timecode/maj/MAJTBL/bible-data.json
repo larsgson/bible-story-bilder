@@ -1,7 +1,7 @@
 {
   "audio": {
     "MAJTBLN1DA": [
-      "REV/REV_015_MAJTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "MAJTBLN1DA_timing": [
-      "REV/REV_015_MAJTBLN1DA_timing.json"
+      ".json"
     ]
   }
 }

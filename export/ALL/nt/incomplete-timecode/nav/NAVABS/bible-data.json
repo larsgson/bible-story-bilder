@@ -1,13 +1,13 @@
 {
   "audio": {
     "NAVABSN1DA": [
-      "REV/REV_015_NAVABSN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "NAVABSN1DA_timing": [
-      "REV/REV_015_NAVABSN1DA_timing.json"
+      ".json"
     ]
   }
 }

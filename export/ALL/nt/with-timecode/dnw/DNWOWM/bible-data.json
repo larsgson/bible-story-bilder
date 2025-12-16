@@ -1,17 +1,17 @@
 {
   "audio": {
     "DNWLAIN1DA": [
-      "REV/REV_015_DNWLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "DNWLAIN": [
-      "REV/REV_015_DNWLAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "DNWLAIN1DA_timing": [
-      "REV/REV_015_DNWLAIN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "audio": {
     "MLGDPVN1DA": [
-      "REV/REV_015_MLGDPVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MLGDPV": [
-      "REV/REV_015_MLGDPV.txt"
+      ".txt"
     ]
   },
   "timing": {}

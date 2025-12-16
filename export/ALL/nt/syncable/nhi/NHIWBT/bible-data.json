@@ -1,12 +1,12 @@
 {
   "audio": {
     "NHIWBTN2DA": [
-      "REV/REV_015_NHIWBTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "NHIWBT": [
-      "REV/REV_015_NHIWBT.txt"
+      ".txt"
     ]
   },
   "timing": {}

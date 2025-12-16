@@ -1,12 +1,12 @@
 {
   "audio": {
     "CBRTBLN1DA": [
-      "REV/REV_015_CBRTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CBRTBL": [
-      "REV/REV_015_CBRTBL.txt"
+      ".txt"
     ]
   },
   "timing": {}

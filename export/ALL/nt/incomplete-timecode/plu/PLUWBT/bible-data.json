@@ -1,7 +1,7 @@
 {
   "audio": {
     "PLUWBTN1DA": [
-      "REV/REV_015_PLUWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "PLUWBTN1DA_timing": [
-      "REV/REV_015_PLUWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

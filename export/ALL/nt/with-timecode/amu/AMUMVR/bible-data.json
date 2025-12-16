@@ -1,17 +1,17 @@
 {
   "audio": {
     "AMUMVRN1DA": [
-      "REV/REV_015_AMUMVRN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "AMUMVRN": [
-      "REV/REV_015_AMUMVRN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "AMUMVRN1DA_timing": [
-      "REV/REV_015_AMUMVRN1DA_timing.json"
+      ".json"
     ]
   }
 }

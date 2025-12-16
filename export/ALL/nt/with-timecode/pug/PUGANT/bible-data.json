@@ -1,17 +1,17 @@
 {
   "audio": {
     "PUGANTN1DA": [
-      "REV/REV_015_PUGANTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "PUGANTN": [
-      "REV/REV_015_PUGANTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "PUGANTN1DA_timing": [
-      "REV/REV_015_PUGANTN1DA_timing.json"
+      ".json"
     ]
   }
 }

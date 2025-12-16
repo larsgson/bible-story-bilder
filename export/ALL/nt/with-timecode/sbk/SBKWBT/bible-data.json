@@ -1,17 +1,17 @@
 {
   "audio": {
     "SBKWBTN1DA": [
-      "REV/REV_015_SBKWBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "SBKWBTN": [
-      "REV/REV_015_SBKWBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "SBKWBTN1DA_timing": [
-      "REV/REV_015_SBKWBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

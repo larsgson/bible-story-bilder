@@ -1,12 +1,12 @@
 {
   "audio": {
     "URDERGO1DA": [
-      "PSA/PSA_117_URDERGO1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "URDERG": [
-      "PSA/PSA_117_URDERG.txt"
+      ".txt"
     ]
   },
   "timing": {}

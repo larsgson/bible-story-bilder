@@ -1,7 +1,7 @@
 {
   "audio": {
     "EN1WEBN2DA": [
-      "REV/REV_015_EN1WEBN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
@@ -9,7 +9,7 @@
   },
   "timing": {
     "EN1WEBN2DA_timing": [
-      "REV/REV_015_EN1WEBN2DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
   "audio": {
     "MILTBLN1DA": [
-      "REV/REV_015_MILTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MILTBLN": [
-      "REV/REV_015_MILTBLN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "MILTBLN1DA_timing": [
-      "REV/REV_015_MILTBLN1DA_timing.json"
+      ".json"
     ]
   }
 }

@@ -1,17 +1,17 @@
 {
   "audio": {
     "BNJOMFN1DA": [
-      "REV/REV_015_BNJOMFN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BNJOMFN": [
-      "REV/REV_015_BNJOMFN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "BNJOMFN1DA_timing": [
-      "REV/REV_015_BNJOMFN1DA_timing.json"
+      ".json"
     ]
   }
 }

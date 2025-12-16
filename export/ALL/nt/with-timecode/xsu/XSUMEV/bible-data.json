@@ -1,17 +1,17 @@
 {
   "audio": {
     "XSUMEVN2DA": [
-      "REV/REV_015_XSUMEVN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "XSUMEVN": [
-      "REV/REV_015_XSUMEVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "XSUMEVN2DA_timing": [
-      "REV/REV_015_XSUMEVN2DA_timing.json"
+      ".json"
     ]
   }
 }

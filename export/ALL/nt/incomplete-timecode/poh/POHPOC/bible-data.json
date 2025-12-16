@@ -1,13 +1,13 @@
 {
   "audio": {
     "POHPOCN1DA": [
-      "REV/REV_015_POHPOCN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {},
   "timing": {
     "POHPOCN1DA_timing": [
-      "REV/REV_015_POHPOCN1DA_timing.json"
+      ".json"
     ]
   }
 }

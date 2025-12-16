@@ -1,17 +1,17 @@
 {
   "audio": {
     "GEOIBTN2DA": [
-      "REV/REV_015_GEOIBTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "GEOIBTN": [
-      "REV/REV_015_GEOIBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "GEOIBTN2DA_timing": [
-      "REV/REV_015_GEOIBTN2DA_timing.json"
+      ".json"
     ]
   }
 }

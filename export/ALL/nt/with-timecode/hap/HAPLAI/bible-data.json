@@ -1,17 +1,17 @@
 {
   "audio": {
     "HAPLAIN1DA": [
-      "REV/REV_015_HAPLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "HAPLAIN": [
-      "REV/REV_015_HAPLAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "HAPLAIN1DA_timing": [
-      "REV/REV_015_HAPLAIN1DA_timing.json"
+      ".json"
     ]
   }
 }

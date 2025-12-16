@@ -1,17 +1,17 @@
 {
   "audio": {
     "BGRBBSN2DA": [
-      "REV/REV_015_BGRBBSN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "BGRBBSN": [
-      "REV/REV_015_BGRBBSN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "BGRBBSN2DA_timing": [
-      "REV/REV_015_BGRBBSN2DA_timing.json"
+      ".json"
     ]
   }
 }

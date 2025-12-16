@@ -1,17 +1,17 @@
 {
   "audio": {
     "KFYDPIN1DA": [
-      "REV/REV_015_KFYDPIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KFYDPIN": [
-      "REV/REV_015_KFYDPIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "KFYDPIN1DA_timing": [
-      "REV/REV_015_KFYDPIN1DA_timing.json"
+      ".json"
     ]
   }
 }

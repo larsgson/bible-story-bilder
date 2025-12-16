@@ -1,17 +1,17 @@
 {
   "audio": {
     "RUSS76N2DA": [
-      "REV/REV_015_RUSS76N2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "RUSS76": [
-      "REV/REV_015_RUSS76.txt"
+      ".txt"
     ]
   },
   "timing": {
     "RUSS76N2DA_timing": [
-      "REV/REV_015_RUSS76N2DA_timing.json"
+      ".json"
     ]
   }
 }

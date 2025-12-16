@@ -1,17 +1,17 @@
 {
   "audio": {
     "WAYWTVN2DA": [
-      "REV/REV_015_WAYWTVN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "WAYWTVN": [
-      "REV/REV_015_WAYWTVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "WAYWTVN2DA_timing": [
-      "REV/REV_015_WAYWTVN2DA_timing.json"
+      ".json"
     ]
   }
 }

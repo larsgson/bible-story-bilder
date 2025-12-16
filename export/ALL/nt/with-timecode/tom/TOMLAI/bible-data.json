@@ -1,17 +1,17 @@
 {
   "audio": {
     "TOMLAIN1DA": [
-      "REV/REV_015_TOMLAIN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "TOMLAIN": [
-      "REV/REV_015_TOMLAIN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "TOMLAIN1DA_timing": [
-      "REV/REV_015_TOMLAIN1DA_timing.json"
+      ".json"
     ]
   }
 }

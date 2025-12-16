@@ -1,12 +1,12 @@
 {
   "audio": {
     "MTOTBLN1DA": [
-      "REV/REV_015_MTOTBLN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "MTOTBL": [
-      "REV/REV_015_MTOTBL.txt"
+      ".txt"
     ]
   },
   "timing": {}

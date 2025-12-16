@@ -1,12 +1,12 @@
 {
   "audio": {
     "CDFBIVN1DA": [
-      "REV/REV_015_CDFBIVN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CDFBIVN": [
-      "REV/REV_015_CDFBIVN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

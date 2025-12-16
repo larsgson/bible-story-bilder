@@ -1,17 +1,17 @@
 {
   "audio": {
     "CENNBTN1DA": [
-      "REV/REV_015_CENNBTN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "CENNBTN": [
-      "REV/REV_015_CENNBTN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "CENNBTN1DA_timing": [
-      "REV/REV_015_CENNBTN1DA_timing.json"
+      ".json"
     ]
   }
 }

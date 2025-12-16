@@ -1,17 +1,17 @@
 {
   "audio": {
     "KUMIBTN2DA": [
-      "REV/REV_015_KUMIBTN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "KUMIBT": [
-      "REV/REV_015_KUMIBT.txt"
+      ".txt"
     ]
   },
   "timing": {
     "KUMIBTN2DA_timing": [
-      "REV/REV_015_KUMIBTN2DA_timing.json"
+      ".json"
     ]
   }
 }

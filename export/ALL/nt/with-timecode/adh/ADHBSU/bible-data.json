@@ -1,17 +1,17 @@
 {
   "audio": {
     "ADHBSUN2DA": [
-      "REV/REV_015_ADHBSUN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "ADHBSUN": [
-      "REV/REV_015_ADHBSUN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "ADHBSUN2DA_timing": [
-      "REV/REV_015_ADHBSUN2DA_timing.json"
+      ".json"
     ]
   }
 }

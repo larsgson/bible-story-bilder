@@ -1,12 +1,12 @@
 {
   "audio": {
     "DAGBSGN2DA": [
-      "REV/REV_015_DAGBSGN2DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "DAGBSGN": [
-      "REV/REV_015_DAGBSGN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {}

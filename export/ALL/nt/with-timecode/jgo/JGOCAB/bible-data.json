@@ -1,17 +1,17 @@
 {
   "audio": {
     "JGOCABN1DA": [
-      "REV/REV_015_JGOCABN1DA.mp3"
+      ".mp3"
     ]
   },
   "text": {
     "JGOCABN": [
-      "REV/REV_015_JGOCABN_ET.txt"
+      "_ET.txt"
     ]
   },
   "timing": {
     "JGOCABN1DA_timing": [
-      "REV/REV_015_JGOCABN1DA_timing.json"
+      ".json"
     ]
   }
 }
