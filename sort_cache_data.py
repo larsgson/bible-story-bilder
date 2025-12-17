@@ -563,7 +563,7 @@ class IndependentCacheDataSorter:
         Categories (in priority order):
         - partial: PARTIAL canon (highest priority, overrides all else)
         - with-timecode: Has text, audio, AND timing
-        - incomplete-timecode: Has timing but missing text or audio
+        - audio-with-timecode: Has audio + timing (no text)
         - syncable: Has both text and audio, but NO timing
         - text-only: Has ONLY text
         - audio-only: Has ONLY audio
@@ -621,8 +621,14 @@ class IndependentCacheDataSorter:
         if has_timing:
             if has_text and has_audio:
                 return "with-timecode"
+            elif has_audio and not has_text:
+                return "audio-with-timecode"
+            elif has_text and not has_audio:
+                # Text + timing (without audio) -> treat as text-only
+                return "text-only"
             else:
-                return "incomplete-timecode"
+                # Edge case: timing alone without any content - skip
+                return None
         else:
             if has_text and has_audio:
                 return "syncable"

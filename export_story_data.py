@@ -11,7 +11,7 @@ This script:
 
 Categories determined by actual content:
 - with-timecode: Has audio + text + timing
-- incomplete-timecode: Has timing but missing audio or text
+- audio-with-timecode: Has audio + timing (no text)
 - syncable: Has audio + text (no timing)
 - text-only: Has text only
 - audio-only: Has audio only
@@ -210,7 +210,7 @@ def determine_actual_category(filesets_by_type: dict) -> str:
     """
     Determine the actual category based on what content exists.
 
-    Returns: "with-timecode", "incomplete-timecode", "syncable",
+    Returns: "with-timecode", "audio-with-timecode", "syncable",
              "text-only", "audio-only", or "failed"
     """
     # In compact format, filesets are just arrays, so check if non-empty
@@ -225,17 +225,18 @@ def determine_actual_category(filesets_by_type: dict) -> str:
     # Determine category based on what exists
     if has_audio and has_text and has_timing:
         return "with-timecode"
-    elif has_timing and (not has_audio or not has_text):
-        return "incomplete-timecode"
+    elif has_audio and has_timing and not has_text:
+        return "audio-with-timecode"
     elif has_audio and has_text:
         return "syncable"
     elif has_text:
+        # Text only, or text + timing (timing without audio is not useful)
         return "text-only"
     elif has_audio:
         return "audio-only"
     else:
-        # Edge case: only timing (shouldn't normally happen)
-        return "incomplete-timecode"
+        # Edge case: only timing without any content
+        return "failed"
 
 
 def export_language_data(
@@ -485,7 +486,7 @@ def generate_summary_to_dir(
             canons_data[canon] = {}
             for category in [
                 "with-timecode",
-                "incomplete-timecode",
+                "audio-with-timecode",
                 "syncable",
                 "text-only",
                 "audio-only",
@@ -500,6 +501,13 @@ def generate_summary_to_dir(
 
             # Skip "failed" category - we don't include failed in summaries or zips
             if category == "failed":
+                continue
+
+            # Skip unknown categories (e.g., old category names during migration)
+            if category not in canons_data[canon]:
+                print(
+                    f"  Warning: Skipping unknown category '{category}' in {canon_dir.name}"
+                )
                 continue
 
             for iso_dir in sorted(category_dir.iterdir()):
@@ -609,7 +617,7 @@ def generate_summary():
 
         for category in [
             "with-timecode",
-            "incomplete-timecode",
+            "audio-with-timecode",
             "syncable",
             "text-only",
             "audio-only",
