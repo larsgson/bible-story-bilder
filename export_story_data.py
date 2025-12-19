@@ -147,7 +147,7 @@ def collect_files_for_distinct_id(distinct_id_path: Path):
     Collect all downloaded files under a distinct_id directory.
 
     Returns dict: {fileset_id: {"type": type, "files": [relative_paths]}}
-    Timing files are separated into their own entries with "_timing" suffix.
+    Timing files are collected for analysis but not included in output.
     """
     filesets: dict[str, dict[str, list[str] | str | None]] = defaultdict(
         lambda: {"files": [], "type": None}
@@ -258,6 +258,7 @@ def export_language_data(
     errors_for_this_distinct_id = errors_by_distinct_id.get(distinct_id, {})
 
     # Organize filesets by type (compact format: only file arrays)
+    # Timing is collected for category determination but not output
     filesets_by_type = {"audio": {}, "text": {}, "timing": {}}
 
     # Add downloaded filesets
@@ -292,21 +293,22 @@ def export_language_data(
 
     # Create export data structure (compact format: only filesets)
     # Metadata is encoded in directory path: export/{canon}/{category}/{iso}/{distinct_id}
-    export_data = filesets_by_type
+    # Exclude timing data as it's redundant (can be derived from audio ID)
+    export_data = {"audio": filesets_by_type["audio"], "text": filesets_by_type["text"]}
 
     # Create export directory using actual category (human-readable format)
     export_path = EXPORT_DIR / canon.lower() / actual_category / iso / distinct_id
     export_path.mkdir(parents=True, exist_ok=True)
 
     # Write JSON file with nice formatting for human readability
-    output_file = export_path / "bible-data.json"
+    output_file = export_path / "data.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(export_data, f, indent=2, ensure_ascii=False)
 
     # Also write compact version to workspace for zipping
     workspace_path = WORKSPACE_DIR / canon.lower() / actual_category / iso / distinct_id
     workspace_path.mkdir(parents=True, exist_ok=True)
-    workspace_file = workspace_path / "bible-data.json"
+    workspace_file = workspace_path / "data.json"
     with open(workspace_file, "w", encoding="utf-8") as f:
         json.dump(export_data, f, separators=(",", ":"), ensure_ascii=False)
 
